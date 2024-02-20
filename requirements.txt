@@ -1,0 +1,13 @@
+tqdm~=4.66.1
+transformers~=4.36.1
+pymilvus~=2.3.3
+urllib3~=2.0.7
+requests~=2.31.0
+openai~=1.8.0
+torch~=2.1.2
+flask~=3.0.0
+vllm~=0.2.6
+numpy~=1.26.2
+nltk~=3.8.1
+pandas~=2.1.4
+pke ==2.0.0

@@ -1,0 +1,1330 @@
+communication networks;large data;online communication;social networks;user demographics
+mobility;pervasive web;remote display;thin-client computing
+phishing;privacy;unauthorized access;web browser design;web spoofing
+blog;geospatial tagging;multimedia;rss
+annotation browsing;clustering;evaluation;social annotation
+attention economics;game theory;quality of online content;user generated content
+performance evaluation
+collaborative filtering;label propagation;random walks;recommendation systems;video search
+access control;security and protection
+distributed algorithms;graph querying;graph simulation
+extraction;instance;metadata;miscellaneous;object;semantic;web
+crawling;irlbot;large-scale
+information search and retrieval;intermittent network;low bandwidth;web search;world wide web
+diversity;effectiveness measures;evaluation;measure informativeness;novelty
+clustering;comparative web search;information search and retrieval;keyphrase extraction;on-line information services;search engine
+hierarchical user profile;personalized search;privacy
+mda;model transformations;transformation language;xml;xml processing
+folksonomies;pragmatics;semantics;tagging;user characteristics
+community structure;conductance;graph partitioning;random walks;social networks
+hyperlink analysis;hypertext/hypermedia;link collection;visualization
+failure atomicity;reliable web services compositions;transactional models
+comorphism of institutions;institution;owl;z
+range query;xml database;xpath
+betweenness centrality;centrality approximation;closeness centrality;graph theory;large networks;shortest paths
+e-learning portals;ieee-lom;jetspeed portlets;semantic web
+categorization;document preparation;svm;term weighting schemes;text
+service adaptation;service interface matching;service protocol adaptation;web services
+anti-phishing;information retrieval;information search and retrieval;named entity recognition;natural language processing;security and protection
+hypermedia authoring;model-based designs
+data translation;self-organization;semantic agreements;semantic integration
+distrust;negative edges;positive edges;signed networks;status theory;structural balance;trust
+information extraction;information search and retrieval;tag analysis;video search
+folksonomies;groupme!;miscellaneous;ranking;search;social media
+load balancing;quality of service;resource allocation;sla optimization;utility function
+components;web applications;xml;xml applications;xml processing;xvm
+contextual bandit;exploration/exploitation dilemma;learning;on-line information services;personalization;recommender systems;web service
+online community;rating;social networks;trust
+computer uses in education;document classification;focused crawling;hypertext/hypermedia;offline;web portal
+heterogeneous databases;learning;machine learning;ontology mapping;relaxation labeling;semantic web
+document summarization;fractal summarization;handheld devices;mobile commerce
+database applications;location-based services;mobile computing;spatial indexing
+back step;pagerank;ranking algorithms
+atom;feeds;location-based services;on-line information services;rss
+linked data
+graph constraints;indexing;pub/sub
+miscellaneous;opinion mining;optimization;sentiment analysis;sentiment lexicon
+software engineering;web services;xml;xquery;xslt
+denial of service;electronic commerce;financial;quality of service;security and protection
+interrelated;mutual reinforcement;similarity spreading
+electronic publishing;hyperlink;link modeling and processing;linkbase;xlink
+internet;moods;personalisation;radio;user evaluation
+document and text editing;information extraction;metadata;natural language processing;semantic annotation;semantic web
+content adaptation;device independence;multimedia;owl;semantic web;services;standards
+number-theoretic computations
+content analysis and indexing;image retrieval;information network;information search and retrieval;ranking
+d2rq;linked data;rdb-to-rdf mapping;rdf;relational database;semantic web;sparql;sparql/update
+clickthrough data;collaborative web search;cube-clustering
+information diffusion;miscellaneous;social contagion;social media
+hubs and authorities;hypertext/hypermedia;image hubs;image retrieval;link structure analysis
+bioinformatics;domain ontology;ontology evaluation;ontology learning;owl-s;semantic web;web services
+customisation;preference-based service selection;web services
+high dimensional;information search and retrieval;latent;missing value;text mining;transfer learning
+assisted browsing;information search and retrieval;link suggestion;quick links;tail sites;website clustering
+contracts;languages and systems;miscellaneous;services composition;web services
+basket recommendation;markov chain;matrix factorization
+access control;conversations;transition systems;web services
+collective knowledge;folksonomies
+crowdsourcing;crowdturfing;spam;sybils
+anchortext;classification;cluster naming;entropy based feature extraction;evaluation;svm;web directory;web structure
+information search and retrieval;inverted files;miscellaneous;update processing
+automated semantic tagging;data mining;information retrieval;large text datasets;software architectures;text analytics
+expertise finding;expertise locators;help seeking;online communities;simulation;social network analysis
+bag semantics;counting complexity;property paths;sparql 1.1
+information search and retrieval;keyword querying;semantic web;semantic wikis;visual query languages;wiki
+capability;preference;reconfiguration;replication;service;synchronization
+annotations;fohm;hypertext/hypermedia;ohif;open hypermedia;svg;xlink;xpointer;xspect
+bandwidth optimization;information storage and retrieval;parallel web crawlers
+active learning;keyword generation;on-line information services;sponsored search
+calendars;time;types;web reasoning
+information visualization;student tracking;web-based distance education
+access control;description logics;policy analysis;xacml
+community structure;conductance;flow-based methods;graph partitioning;spectral methods
+architectures and designs for web-based learning delivery environments;design tools and techniques;models and metamodels;requirements/specifications;specification of educational applications;uml language;user/machine systems
+content based retrieval;hits;hyperlink analysis;multimedia retrieval;pagerank;web search engines
+information search and retrieval;mobile queries;mobile search;mobile search query analysis;query categorization;query log analysis;voice queries
+cost-per-action;general;internet advertising;learning;mechanism design
+acquisition bias;bibliometrics;citeseer;dblp;miscellaneous
+email profiles;reply probability;reply time
+automated vulnerability detection;crawling;cross-site scripting;miscellaneous;scanner;security and protection;sql injection;xss
+hierarchical learning;ontology-based information extraction;semantic annotation
+corpus size estimation;evaluation;information search and retrieval;search engines
+jax-rpc;sax;schema compilation;validation;xml;xml schema
+mining;query logs;recommendation;session
+data translation;direct mapping;owl;rdb2rdf;rdf;relational databases;semantic web;sparql;sql
+harmonic function;random walk;search;semi-supervised learning
+authoring tools;incremental transformations;xml;xslt
+annotation;argumentation;cscw;decision support;miscellaneous;sensemaking;web
+ad exchanges;adaptive bidding;applications;bidding agents;general
+computer uses in education;developing regions
+information search and retrieval;on-line information services;query-free search;web information retrieval
+blogs;burst analysis;hot topics;information retrieval;keyword correlation;miscellaneous;social media;text mining
+automated annotation;blogs;content analysis and indexing;hierarchical clustering;information search and retrieval;tagging
+mobile computing;session hand-off;web applications
+audio fingerprinting;miscellaneous;social media;synchronization;video
+online social networks;parallelization;software architectures;web crawler;web spider
+content structure;topioc hierarchy;website mining
+ad auctions;clickthrough rate;conversion rate;miscellaneous;online advertising;pagerank;sponsored search;user behavior models
+behavioral targeting;click-through rate .;model validation and analysis;online advertising;user segmentation
+crowdsourcing;human computation;max algorithms;miscellaneous;miscellaneous;plurality voting;vote aggregation;worker models
+buzz;novelty;recommenders;serendipity
+betweenness centrality;update algorithm
+business process composition;commitments;web services
+automatic lexicon compilation;information search and retrieval;mining transliteration pairs;natural language processing;person name
+contest design;crowdsourcing;game theory;mechanism design;social computing;user generated content
+device independence;framework;interactivity;multichannel publication;multimedia;multimedia information systems;standards;xml
+client-server distributed systems;communications applications;ict;mobile computing;mobile phones;paper user interface;rural development
+medical query;medical web search engine
+communication;drag and drop;portal;start page;widget
+meaning elicitation;schema matching;semantic web
+citation network;general;information search and retrieval;language model;topic evolution;topology
+admission control;performance of systems;profit maximization;quality of service;service level agreement;service time estimation;short-term prediction;shortest remaining job first;web service
+general;marketing;monetizing social networks;pricing;submodular maximization
+e-commerce;e-markets;electronic commerce;marketplaces;selling practices
+802.11 mesh networks;long-distance wifi;low cost networking;rural connectivity
+password alternative;web single sign-on
+automatic service composition;nonfunctional properties;service matchmaking;service selection problem
+scx;xml;xml schema
+context;semantic portal;semantic web services;soa
+automated synthesis;business processes;web service composition
+agent technologies;ontology;semantic web;web services
+automation;control-flow graphs;regression test selection;testing tools;web services
+desktop search;information search and retrieval;personal information management;ranking
+browser;cross-site scripting;filter;unauthorized access;web;xss
+activity prediction;miscellaneous;proximity;social media;social networks
+general;streaming media;workload characterization
+information search and retrieval;search engine;soft 404;spam;url redirection
+indexing;information retrieval;pruning;search engines;web search
+influential mediator;social networks;viral marketing
+document preparation;java;language constructs and features;language design;xml
+advertisement filtering;interface agents;weighted majority
+clustering;fact finding;trust
+crawler;robots exclusion protocol;robots.txt;search engine
+implementation;lsh;lsi;question authoring
+knowledge representation formalisms and methods;ontology;semantic web;uncertainty
+best practices;handicapped persons/special needs;quality assurance;standards;web site quality
+agreement matching;arl;dynamic service selection;information search and retrieval;multi-ontology service annotation;ontologies;owl;semantic policy matching;semantic web service;snobase;ws-agreement;wsdl-s
+distributed rdf repositories;peer-to-peer;schema-based routing;semantic web
+fake review detection;group opinion spam;opinion spam;social and behavioral sciences
+contextualized news articles;miscellaneous;topic graph;web browser
+distributed computing;microcomputations;micropayments;monetization
+genetic algorithm.;software reliability growth model;weighted combination
+anchor text;query classification;web retrieval
+computers in other systems;dvb;idtv;mhp;web contents transcoding
+applications and expert systems;future prediction;news prediction;web knowledge for future prediction
+belief propagation;bipartite cores;fraud detection;markov random fields;miscellaneous
+digital watermarking;hybrid;scene change;security and protection;video
+block importance model;classification;miscellaneous;page segmentation;web mining
+applications;cache consistency;change characteristics;collected content;object composition;object relationships;server invalidation;web caching
+keyword expansion;re-ranking;social network
+access visualization;hypertext/hypermedia;maximal forward path;metrics;usage mining
+browsing semantics;formal semantics;frames;html;literary hypertext;model checking;temporal logic
+automatic context processing;context;extensibility;extensible framework;information services;service platform;web services
+multicast;qos;service composition
+automated reasoning;general;information extraction;ontology
+algorithm;analogical reasoning;data mining;semantic link network;semantic web
+flickr;geolocation;graph mining;photo collections;trip planning
+ontology;semantic portal;semantic web
+hits;information search and retrieval;link analysis;pagerank;spam;web search engine
+collaborative filtering;optimization;recommender systems;semi-supervised learning;social network analysis;spectral clustering
+database selection;information search and retrieval;lowest common ancestor;xml
+adversarial data mining;review spam;spammer group detection
+evaluation;information search and retrieval;social annotation;social page rank;social similarity;web search
+blogs;linked data;visualization;wikis
+e-government;national audit offices;network;ranking;webmetric
+information retrieval;query classification;user behavior;user goals;web search
+markov models;ranking prediction
+stigmergy;systems and software;virtual pheromones;web collaboration
+expressiveness;formal model;xml schema
+generation;grammar;rdf;universal algebra;unparsing;xml
+decision tree;information retrieval;layout analysis;machine learning;support vector machine;table detection
+privacy;user model
+attention;collections;information gathering and management;transclusions;web-based interaction design
+appel;hippocratic databases;p3p;preference;privacy-aware data management;xpath;xpref
+clustering;miscellaneous;search logs;wrapper induction
+crawler;discovery;uddi;uddi business registries;web services
+automated support;extensibility;heterogeneous databases;mapping;xquery
+multimedia information systems
+information storage and retrieval;text classification;topic hierarchy;web mining
+faceted search;hybrid query;information search and retrieval;inverted index;ranking
+content analysis and indexing;folksonomy;social tagging;web 2.0
+dht;ir;p2p;query-driven indexing;text retrieval
+general;hierarchy;measure;social networks
+ontology evolution;ontology registry;ontology reuse
+information search and retrieval;ontology learning;semantic grounding;social similarity;web 2.0
+link analysis;newsgroup;social network;text mining;web mining
+geo-referenced data;geotagged;image summarization;implicit feedback;miscellaneous;photographs;tagging;visualization
+context;invisible web;search;semantic processing;statistical natural language processing
+content transcoding;dynamic content;electronic commerce;electronic commerce;information delivery;personalization;portable devices;smart bookmarks;voice interfaces;web clipping;wrappers
+anonymity;dpatial databases;peer-to-peer;privacy
+agents;answer set programming;distributed artificial intelligence;information retrieval;logic programming
+graph partitioning;indexing;rdf;signature
+natural language processing;relational similarity;web mining
+hypertext/hypermedia;page segmentation;query expansion;web information retrieval
+social honeypots;social media;spam
+earthquake;event detection;location estimation;social sensor;twitter
+content match;contextual advertising;impression forecasting;information search and retrieval;online advertising;wand
+games with a purpose;human computation;online games;rank aggregation;relevance;search engine
+access control policies;fault model;mutation testing;test generation;testing tools
+data fusion;kernel combination;web page classification
+credit networks;electronic commerce;empirical game-theoretic simulations;strategic network formation;trust
+css;debugging;style sheets;web development
+adaptive search;empirical study;personalization;task model;task-based information exploration;user profile
+cellular automata;unsupervised clustering;visualization;web pages
+data api network;mashup navigation;miscellaneous;semantic;social
+crowdsourcing;entity linking;linked data;probabilistic reasoning
+core ontology of services;daml-s;descriptions and situations;dolce;owl-s;semantic web;web services
+compact lca;lowest common ancestor;maximal clca
+information extraction;web search
+active learning;classification;statistical language models;vandalism;wikipedia
+content analysis and indexing;content extraction;readability;usability
+information search and retrieval;link analysis;search engines;web information retrieval
+version control;web engineering
+annotation;database applications;e-science;hypertext/hypermedia;integration;ontology;provenance;semantic web
+compression;double-pareto;index size;information search and retrieval;power law
+miscellaneous;optimizations;web;wireless
+link analysis;miscellaneous;pagerank;rbs;web traffic analysis
+content-based routing;graph matching;information dissemination;information search and retrieval;publish/subscribe;rdf;systems and software
+admission control;dynamic web content;load control;request scheduling;web servers
+clone analysis;clone metrics;clones;software maintenance;software reuse;web applications;web engineering
+ajax;control-flow analysis;intrusion detection;javascript
+network architecture and design
+heterogeneous databases;information integration;probabilistic model;semi-markov
+computer-assisted instruction;distributed learning;elicitation methods;software design;virtual laboratories
+eclipse;j2ee;mvc;visual builder;web application;xforms;xmlbeans
+approval voting;contextual opinion;grammatical tree derivation;information search and retrieval;sentence level
+database selection;distributed text database;metasearch engine;resource discovery
+geolocation;propagation;social networks
+audio browser;html;semantic analysis;software architectures;structural analysis;user interface;voicexml;world wide web
+maximum entropy principle;recommendation;user model
+community;question answering;ranking
+data rewriting;dissemination;heterogeneous;miscellaneous;xml
+boosted regression trees;boosting;distributed computing;general;machine learning;parallel computing;ranking;web search
+interactive search;knowledge discovery;subject graphs
+anomaly detection;clustering;intrusion detection;security and protection
+general;privacy;profiling;protection
+information search and retrieval;metrics;offline prediction;online evaluation;randomization;user engagement
+algorithm complexity;parameter tuning strategies;text categorization;very large web taxonomies
+metasearch;multi-word queries;rank aggregation;ranking functions;spam;web
+cosine similarity;emotional valence detection;machine-generated content
+abstraction;refinement;service composition
+dependability;end-users;interaction styles;web authoring tools
+information retrieval;internet behavior;language constructs and features;personal information access;system;user profile
+information search and retrieval;proximity measure;ranking algorithm
+evaluation;model;search shortcut
+computer-aided software engineering;rich internet applications;web engineering;web site design
+harmonic rank;link propagation;miscellaneous;proximity
+expected weighted hoeffding distance;ranking;search algorithm dissimilarity
+bittorrent;distributed systems;incentives;peer-to-peer;private communities;resale value;share ratio enforcement
+hypertext/hypermedia;miscellaneous;rate of change;standard datasets;web evolution
+b2b collaboration;business process management;ebxml;electronic data interchange;retail industry;soa;supply chain management;web services
+conceptual modeling;lifecycle management;on-line information services;security and protection;security and protection;social issues;trust negotiation;web services
+clustering;content analysis and indexing;general;opinion mining;topic models
+advertisement syndication;redirection and cloaking;search spam;web spam
+miscellaneous
+discrete mathematics;kendall's τ;link farms;pagerank;probability and statistics;ranking
+information retrieval;information search and retrieval;query expansion;question answering;web search
+information search and retrieval;mixture model;spatiotemporal text mining;theme pattern;weblog
+distributed artificial intelligence;incentive compatibility;quality-of-service;reputation mechanism;service-level agreement;service-oriented computing
+information retrieval;information search and retrieval;log mining;probabilistic model;query expansion;search engine
+data extraction;data record extraction;miscellaneous;wrapper
+semi-structured data;xml
+color;contents of web page;general;miscellaneous
+content analysis and indexing
+document overlap;miscellaneous;shingling
+chinese;english;miscellaneous;readability;web pages;web sites
+internet
+crawling;information retrieval;miscellaneous;thesaurus;topic
+query recommender systems;web search effectiveness
+editors;expertise;web usage;wikipedia
+all-pay auction;cheap talk;contest;crowdsourcing;electronic markets;entry deterrence;miscellaneous;reputation
+description logics;knowledge representation formalisms and methods;ontologies;owl;semantic web
+hoeffding's inequality;query grammar;query structure;unsupervised query segmentation
+information search and retrieval;search engine;social network;web mining
+inference;inference system;search;searchable diagrams;xml
+markov logic networks;relationship extraction;statistical models
+information retrieval;peer-to-peer;semantic;small world
+autonomic replication;data replication;distributed systems;edge services;rerformance
+database applications;expertise search;information extraction;information search and retrieval;learning;social network
+browser interfaces;clickstream study;hypertext;navigation;user modeling
+applications;information search and retrieval;semantic description;web content mining;web structure
+anonymity;computer-communication networks;content blocking;privacy;web registration
+boinc;citizen science;crowdsourcing;motivations;online communities;seti@home;volunteer computing
+approximation algorithms;axiomatic framework;diversification;facility dispersion;information search and retrieval;search engine;wikipedia
+information diffusion;information flow;miscellaneous;web mining
+article generation;domain independent;miscellaneous;template selection;wikipedia
+hci;mobile internet;portable devices;usability;wap
+accessibility;automatic presentation generation;digital talking books;ditabbu;document preparation;hypermedia;hypertext/hypermedia;multimodality;user interfaces
+knowledge representation formalisms and methods;owl;relational databases;semantic web
+caching;crawling;distributed crawlers;url caching;web crawlers;web graph models
+recommender systems;social media;social recommendation
+anomaly detection;drive-by-download attacks;security and protection;web client exploits
+approximate data structures;content distribution networks;simulation;web proxy cache
+indexing annotated text
+information retrieval;ranking;topic initiator;web mining
+iptv;social data mining;social tv;speech interface;twitter;user interfaces
+content analysis and indexing;data quality;temporal coherence;web archiving
+email;filtering;learning;phishing;semantic attacks;spam
+information search and retrieval;link analysis;pagerank;random walks;web graph
+cross-lingual information retrieval;information search and retrieval;machine translation;text classification;web search
+hypermedia;presentation generation;rdf;wis;xslt
+content distribution network;performance of systems;server selection;web traffic redirection
+extraction rule;information extraction;multiple string alignment;pat tree;segmentation;web
+query forms &amp; reports;web;xml;xml;xml query language;xsl
+audio search;developing regions;information search and retrieval;literacy;mobile phone;multimedia information systems;spoken web;world wide telecom web
+hashing;information search and retrieval;learning to rank;nearest neighbor search
+educanext;educational activity;educational mediators;ieee standard;isabel application;learning resource;live collaboration over the internet;lom;videoconferencing
+semantic web
+search engines;user intent;web queries;web searching
+cognitive engineering;network user interface;usability;world wide web
+maintenance;meta-data;peer-to-peer;wide-area distributed file system
+data manipulation languages;design tools and techniques;semi-structured data;visual query languages;xml;xquery
+html;multimedia;smil;transformations;xml;xslt
+bidder optimality;competitive equilibrium;envy freeness;expressiveness;general auction mechanism;gsp;nonnumerical algorithms and problems;vcg
+miscellaneous;pagerank distribution;web graph
+content models;learning objects;metadata;miscellaneous;ontologies;repurposing
+economic model;game theory;general;market;power laws;price of anarchy;utility function;web search
+applications;content distribution;cookie;http;web caching;workload characterization
+citizen sensing;mobile development application;on-line information services;people-content-network view of social media;semantic social mashup;semantic social web;social development application;social media analysis;social signals;user generated content
+on-line information services;world wide web
+knowledge representation formalisms and methods;provenance;rdf;semantic web;trust
+click-through data analysis;performance evaluation;performance evaluation
+jena;owl;rdf;rdql;semantic web;software architectures
+large scale discovery;partial matches;runtime non-determinism;type based composition;web services
+browsing behavior;general;markov chains;user models
+adaptive hypermedia;authoring of adaptive hypermedia;learning styles;user modeling
+coauthorship networks;collaboration social networks;computer science;miscellaneous
+compact storage;information storage;query processing;storage optimization;xml
+chemical formula;conditional random fields;entity extraction;feature boosting;feature selection;query models;ranking;similarity search;support vector machines
+content analysis and indexing;index compression;inverted index;query execution;redundancy elimination;search engines
+adaptive faceted browser;information search and retrieval;open information space
+aliasing;applications;caching;duplicate suppression;dynamic content;http;hypertext transfer protocol;privacy;proxy;redundant transfers;resource modification;scalability;world wide web;www
+learning preferences;preference judgments
+information search and retrieval;network analysis;ontologies;semantic associations;semantic search;semantic web;spread activation algorithms
+query evaluation;semantic cache;xml;xpath
+composite events;event-condition-action rules;language constructs and features;reactive languages;web
+indexing framework;p2p;peer-to-peer
+general;geo-spatial;knowledge base;multilingual;ontology;temporal;textual
+blog;on-line information services;rdf;semantic web;vision;web 2.0
+gps;location;personalization;rfid;sensor;systems and software;web browsing;web publishing
+multi-objective optimization;on-line information services;qos-aware service composition;robustness;service computing
+business modeling;business process modeling language;rdf;semantic web;software
+extraction;information;information search and retrieval;news search engines;syndication
+personalized search;user profile;user search behavior;web search
+adaptive user interfaces;adaptive web sites;personalization;user modeling
+miscellaneous;national web domains;world trade graph
+database applications;digital library;information search and retrieval;learning;name disambiguation;probabilistic model
+email summarization;text mining
+miscellaneous;model;quality of service
+bpel;message mediation;monitoring;quality of service;service selection
+distributed systems;reputation;security and protection;service-oriented architectures;trust management
+query optimization;sql;translation;virtual view;xml;xslt
+qos;service composition;web services
+fault-tolerance;head-of-line blocking;internet;sctp;standards;stream control transmission protocol;transport layer service;web applications;web transport
+approximate text matching;data cleaning;heterogeneous databases;text indexing
+homophily;miscellaneous;randomization;social influence;social networks
+e-learning;metadata;modelling;scorm;standards
+hash-based anonymization;miscellaneous;privacy;query logs
+compression;general;web graph
+decentralized search;evaluation;folksonomies
+credibility;invasive software;p2p network;polling protocol;reputation;security and protection
+general;http;middleware;mobile code;proxy;wireless
+information extraction;information search and retrieval;quantitative performance measures;recall;redundancy;web metrics
+advertising effectiveness;browsing behavior;causal inference;field experiments;selection bias
+nonnumerical algorithms and problems;revenue;sponsored search auctions
+compiler;interpreter;schema;xml
+dom;hypertext/hypermedia;naive bayes classifier;page segmentation;topic hierarchy;vips
+hyperspace;learning affordance;meta-learning;navigational learning;web contents
+deep web;meta search;performance evaluation;testbed;wrapper
+b2c e-commerce;decision support;personalization;pro-active intervention;vortex rules system
+document clustering;information bottleneck;information search and retrieval;link structure;name disambiguation;social network;web appearance
+information search and retrieval;query intent;retrieval model;web entity intent
+classification;eigenvector;expressive semantics;flash retrieval;search engine;web application
+e-learning;peer-to-peer;semantic web
+collaborative filtering;group shilling;recommendation system
+incentive compatibility;individual rationality;nash equilibrium
+collaborative filtering;machine learning;social networks
+dynamic content;network protocols;scalability;volume lease;web cache consistency
+community;community net;evolution;evolution net;non-negative matrix factorization;soft membership
+graph theory;hierarchy structure;page rank algorithm;power distribution
+information flow;invasive software;noninterference;program security;security vulnerabilities;type systems;unauthorized access;web application security
+attribute grammar;box model;css;font;graphical user interfaces;html;layout;mobile;multicore;selector
+content analysis and indexing;multilingual;topic modeling;universal-topics;wikipedia
+communications management;tcp splice;web proxy
+biomedical knowledge base;disease factors;general;ontology;relation extraction
+miscellaneous;ontologies;scalable sense integration;semantic web
+service orientation;test case prioritization;testing tools;wsdl;xpath
+holistic algorithms;order-based queries;xml
+asynchronous communications;bpel;formal verification;systems and information theory;web service composition
+crawler;crawling;interface;searching;service portals;uddi;uddi business registries;web services;wsce;wsdl
+agents;aggregation;associativity;communications applications;context;polymorphism;reconnaissance;web services
+query modification;rule extraction;sensitivity analysis;support vector machine
+expertise finding;help seeking;knowledge sharing;online communities;question answering;social network analysis
+collaborative filtering;continuous-time markov chain;diffusion of innovation;information flow;recommendation;social influence;web ranking
+relationship query;web search
+data dissemination;dynamic data;pull;push;resiliency;scalability;temporal coherency;world wide web
+distrust;information search and retrieval;trust propagation;web of trust
+cloud;cluster;grid;grid service;resource management;trust management
+entity ranking;object ranking;semantic search;structured data
+data description languages;pushdown automata;query;schema;streaming algorithms;typing;xml
+hierarchical classification;large scale;meta model;metalabeler;multi-label classification;query categorization
+object-z;uml;uml;web;xml;xml/xsl/xmi
+asynchronous communication;bpel;conversation;model checking;software/program verification;spin;synchronizability;systems and information theory;web service;xpath
+annotation;document and text editing;metadata;rdf;semanticweb
+contiguous sequential pattern;sequential pattern;web usage mining
+event evolution;event evolution graph;knowledge management;web content mining
+business information model;business process model;business value model;general;vip;webml
+accessibility;content extraction;context;dom trees;electronic publishing;html;reformatting;speech rendering
+detection;drive-by download;invasive software;malware distribution network;signature generation
+e-fcm algorithm;instance selection;security and protection;tcm-knn algorithm;web server anomaly detection
+miscellaneous;schema mapping;xml transformation
+accessibility;content extraction;dom trees;html documents;reformatting;speech rendering
+scx;x2doc;xml schema
+internet services;load shedding;on-line information services;request termination
+content similarity;query suggestion;web-enabled database
+browser;gps;javascript;lbs;location-awareness
+geo-referenced photographs;miscellaneous;photo collections;social media
+document clustering;named entity;search result organization
+delay-tolerant networking;developing regions;general;wiki
+markov model;path traversal pattern;web mining
+crowd sourcing;ecology;photo collections;social media
+automatic ontology construction;ontology reuse
+co-browsing;collaboration;collaborative computing;shared browsing;web4ce
+labeled trees;xml compression and indexing
+contextual subgraph;query reformulation;web graph;web projection;web search
+adaptive hypermedia;content adaptation;mobile browser
+control;news personalization;open user model;trust;user profile
+web caching
+load balancing;multi-attribute;p2p;range queries
+daml+oil;daml-s;semantic web;tcoz
+information search and retrieval;query stream analysis;search engines;semantic similarity among queries
+data integration;java;language constructs and features;xml
+game theory;sponsored search auctions;stable matchings
+information extraction;opinion mining;social media;twitter
+competing campaigns;information cascades;misinformation;nonnumerical algorithms and problems;social networks;submodular functions;supermodular functions
+dialogue management;multilinguality;user interface management systems;voice web interfaces
+community detection;graph analysis;wikipedia
+arbitrary similarity measure;information storage and retrieval;iterative method;k-nearest neighbor graph
+international e-mail;junk e-mail;spam
+commitment relationship;distributed description logic;owl;vocabulary provenance
+classification;ontology mapping;semantic web;support vector machines;taxonomy integration;transductive learning
+cross-site scripting;security and protection;web browser;web security
+discovery query;information search and retrieval;path expression tree;ranking complex relationships;semantic associations search;semantic match;semantic ranking;semantic relationship search;semantic similarity;semantic summary;semantic web;semrank
+architecture;federation;modeling;web services
+content distribution network performance;denial of service attack;electronic data interchange;flash crowd;web workload characterization;world wide web
+hypertext/hypermedia
+blog;geospatial tagging;iptv;multimedia;rss
+dynamic content generation;interaction styles;interactive video;j2ee;media asset management;micro-payment;smil;video;video personalization
+click-through rate;cpc;ctr;information search and retrieval;learning;paid search;ranking;sponsored search;web advertising
+distributed systems;information search and retrieval;peer collaborative search;small world;topical crawlers
+content delivery networks;information propagation;on-line information services;online social networks
+information search and retrieval;multi-view clustering;reranking;web image retrieval
+ad auctions;analysis of algorithms and problem complexity;bid optimization;optimal bidding;sponsored search
+distributed web crawling;location aware web crawling
+p2p;power-law;probabilistic algorithms;probability;search;trust
+evaluation;open directory project;related pages;search;similarity search
+description logics;owl;structured objects
+bpel4ws;code partitioning;composite web services;decentralized orchestration
+blind users;screen reader;user interfaces;web accessibility
+graph clustering;graph compression;social networks;web graphs
+materialized view;view maintenance;xml;xpath;xslt
+multi-service application;resource provisioning
+content quality;delicious;social bookmarking
+applications;applications;behavioral analysis;predictive behavioral models
+index caching;information search and retrieval;result caching;search engines;weighted caching
+adaptability;portals;portlets;product lines;reusable software;soa;wsrp
+graph classification;web 2.0 ir
+authorities;bayesian;hubs;kleinberg's algorithm;link analysis;salsa;threshold;web searching
+entity linking;fact integration;information search and retrieval;knowledge base;semantic knowledge;wikipedia
+diversification;evaluation;information search and retrieval;intents;metrics;novelty;redundancy
+patterns;rich internet applications
+graphical user interfaces;memospace;navigation
+data serialization;multi-channel integration;session service
+geographical topics;topic comparison;topic modeling
+local web search;web mining;web-gis integration
+query relaxation;query results ranking;top-k.;web database
+context-free grammars;cross-site scripting;html validation;server-side scripting;static analysis
+association rule mining;collaborative filtering;latent topic models;recommender systems
+file sharing;instant messaging;personal web server
+computer-aided software engineering;design environment;rdf;semantic web;swis;wis
+general;multicast;overlay networks;streaming
+ad-hoc network;peer to peer;service discovery;ubiquitous computing;user interfaces
+data models;knowledge representation formalisms and methods;model theory;rdf;semantic web;xml
+general;knowledge representation formalisms and methods;modelling;philosophical foundations;representation;semantic web
+dynamic content caching;fragment detection;fragment-based caching;general;l-p fragments;shared fragments
+content analysis and indexing;corpus;indexing;information extraction;information search and retrieval;language;query;search engine;variables
+admission control;bounded response time;internet;internet;internet;pacers;qos;service differentiating internet servers
+back navigation;browsing;revisitation;usability study;web trails;web usage
+distributed enforcement;distributed systems;law governed interaction;online auctions;software architectures
+electronic commerce;hierarchical bayesian modeling;online advertising;paid search advertising;search engines;web 2.0
+model-theoretic semantics;representation;semantic web
+graph analysis;large-scale data collection;miscellaneous;network evolution;online social networks;user behavior
+forms;html;mobile computing;pda;portable devices;wap;web;wireless access
+advertising;information extraction;keyword extraction;miscellaneous
+entity extraction;similarity measure;synonym generation;web search
+crawling;metrics;quality;search engines;sitemaps
+coherency;continuous queries;fidelity;markov model;online decision making
+hash indexing;image annotation;search result clustering
+game theory;generalized nash equilibrium;resource allocation
+general;online social networks;short urls;twitter
+structural svm;transfer learning;video summarization
+measurements;password
+distributed crawling;web communities;web metrics
+copy detection;information retrieval;information search and retrieval
+dependency;internet;latency;model;web retrieval
+content analysis and indexing;general;information;information search and retrieval;metro maps;summarization
+compositional semantics;extractive summarization;landing pages;sponsored search
+language classifications;programming language;web service;xml
+miscellaneous;music information retrieval;recommender systems
+blogs;graph theory;information propagation;learning;memes;topic characterization;topic structure;viral propagation;viruses
+user interfaces;web3d;wikipedia;wpf
+adaptive scheduling;computational grids;discrete event simulation;performance prediction
+network measurement;network protocols;streaming;video quality
+consistency;content management;formal semantics;information system;knowledge management;logic programming;quality;web engineering;web site evolution;web sites;xml
+classifier design and evaluation;design methodology;information filtering;information search and retrieval;machine learning;neural nets;text processing
+dynamic content;edge caching;offloading;performance evaluation
+ad auctions;adecn;electronic commerce;mechanism design;online advertising;sequential screening
+capacity-planning;multimedia;performance evaluation;scheduling
+applications;degree;network flows;performance evaluation;power laws;scale-free networks;strength;traffic statistics;web usage
+entity completion;loss of pk-fk;web databases
+caching;content-match;miscellaneous;nearest-neighbor
+owl;rdf;semantic web
+applicative programming;pda;pervasive devices;wml;xml;xslt
+collaborative filtering;m-commerce;personalization
+data extraction;miscellaneous
+artificial ants;hierarchical clustering;portals sites;web
+formal specification;formal verification;web service compatibility;web service interfaces;web service substitutivity;web services
+approximation;graph theory;pagerank;web graph
+active learning;social network privacy;usability
+correlation clustering;energy minimization;graph cuts;miscellaneous;webpage sectioning;webpage segmentation
+data integration;fact-finders;graph algorithms;trust
+information search and retrieval;spam;web search engine
+interface;modules;web services;wsdl;xml;xquery
+service adaptation;service composition
+web-based personal health record
+orel;owl;rights expression language;xrml
+boostrapping algorithm;natural language processing;ner;weakly-supervised learning
+information retrieval;proactive content delivery;query;search
+rdf;versatility;web;xcerpt;xml
+behavioral variability;web search
+black box systems;distributed systems;performance analysis;performance debugging;testing tools
+collaborative network;information flow;social routing
+generation of web content;level of detail;metadata;video stream;web browser from video streams and their metadat
+crawling;discovery;greedy;max cover;miscellaneous;set cover
+event identification;miscellaneous;place identification;tagging systems;word semantics
+brand;search engines;web searching
+arduino;compass;geo-browsing;gps;interaction styles;maps;mobile photo browsing
+information longevity;information search and retrieval;recrawling
+affinity rank;diversity;information richness;link analysis
+crawling;document age;freshness;latency;metrics;monitoring;search engine
+internet;keyword auctions;mechanism design;nonnumerical algorithms and problems
+classification;information diffusion;information search and retrieval;microblogs;social media
+applications;privacy;privacy enhancing technologies
+interoperability;service oriented architectures;software architectures;tools and technologies for web services development
+active databases;active systems;dependency models;event correlation;reactive rules;relationships between entities;rule engine
+automation;cloud computing;computer-aided software engineering;criteria;decision support;decision support;factors;migration process;selection algorithm;service selection
+graph partitioning;maximum flow algorithm;web community
+animation;multimedia;synchronization;timing;video
+applications;awaredav;cscw;event notification;webdav
+genre classification;linguistic;term frequency
+graph regularization;learning;miscellaneous;review helpfulness;review quality;social network
+dynamic networks;re-publication
+k-anonymity;l-diversity;location privacy
+diversity;ecommerce;relevance;search;trust;value
+k-means;k-svmeans;multi-type data clustering;online svm
+browser extensions;implicit measures;performance evaluation;web search
+automatic speech recognition;key-phrase extraction;media archiving;multimedia;natural language processing;probabilistic algorithms;semantic annotation;semantic web;topical segmentation;web search
+crawling;interaction styles;querying;world wide web
+conformant prototype;full-text;information search and retrieval;xquery
+caching;inverted index;metrics;miscellaneous;web search
+auto-completions;data mining;estimation,;impressionrank;information search and retrieval;popular keyword extraction;search engines;suggestions
+data mining;time management;web log analysis
+active rules;document management;push technology;query languages for xml;soap;web;xml
+google news;mapreduce;minhash;miscellaneous;oneline recommendation system;personalization;plsi;scalable collaborative filtering
+communications applications;communities;endorsement social networks
+media;search;social dynamics;user/machine systems;video
+android;navigation;path planning;route search
+anchor text;query refinement;rank;web search
+crawling;data extraction;deep web;methodologies;semistructured data;web;wrappers;xml
+information search and retrieval;query expansion;sponsored search;tail queries
+benchmark;browser;javascript;replay;web
+database applications;database-to-ontology mappings;relational databases;semantic web;upgrade
+information extraction;information retrieval;language model;web objects
+patching;peer-to-peer networks;performance evaluation;video on-demand service
+methodologies;reasoning;requirements;self-tuning;survivability;value
+applications;clustering;machine learning;traffic classification
+isotonic regression;miscellaneous;template detection;webpage sectioning;webpage segmentation
+information search and retrieval;spreading-activation theory;user ontology
+continuous queries;monitoring search;optimal stopping
+ontology;owl;scalability;segmentation;semantic web
+active behavior;composite event;event algebra;event-condition-action rule;xml
+description logic;inferencing;information integration;interoperability;knowledge representation;logic programs;miscellaneous;model-theoretic semantics;ontologies;rdf;rules;semantic web;systems and software;translation;xml
+index caching;index compression;inverted index;search engines
+hypertext/hypermedia;model-based configuration management;versioned hypermedia;web engineering
+ast tree matching;execution-based measurement;javascript;same origin policy;unauthorized access;web engineering
+miscellaneous;pagerank;web dynamics;web graph
+aggregated search;rdfa;semantic web;web of data
+data fusion;interoperability;object consolidation;object coreference;property combination;self-training
+miscellaneous;mobile computing;web browsing;web images
+information search and retrieval;semantic web;trust;web of trust
+benchmark;daml+oil;evaluation;knowledge base system;semantic web
+adaptation;business process;interoperability;web services
+general;wikipedia;wordnet
+clickthrough data;information search and retrieval;latent semantic analysis;multilingual ir;topic models;translation model;web search
+computer-based entertainment;cyberdrama generation;interactive storytelling;web-based multiplayer games
+classification;positive and unlabeled learning
+class names;html;link relationships;lowercase semantic web;meta data;microformats;profiles;reuse;schema;world wide web;www;xfn;xhtml;xmdp
+digital ink;freehand writing;inkml;random access
+information search and retrieval;log analysis;search log mining;task evaluation;task trail
+homophily;miscellaneous;randomization;social influence;social networks
+knowledge representation formalisms and methods;metamodeling;ontology;reasoning
+attribute discovery;collective information extraction;commerce search;information search and retrieval;integer linear program;natural language processing;weak supervision
+collaborative filtering;probabilistic model
+alert generation;classroom pattern detection;computer-managed instruction;data integration;data-driven decision making;teacher cognition
+explanation;ontology engineering;owl;semantic web;testing and debugging
+degree of change;hypertext/hypermedia;miscellaneous;rate of change;web characterization;web evolution;web pages
+distributed computing;dsn;mobile communication;p2p
+credibility;gis;navigation;posting;recommendation;types of systems
+b2b integration;electronic data interchange;ontologysing;rosettanet;xml
+classification;models and principles;news recommendation;tree structures;web applications
+expert review;information search and retrieval;opinion integration;probabilistic topic modeling;semi-supervised
+classification;click data;content analysis and indexing;learning
+guided tours;hypermedia;metro map metaphor;paths;trails;xml
+applications;http;protocol design
+reputation;user-generated content;wikipedia
+decision tree;field study;information filtering;task;task prediction;web
+planning;semantic web;web services composition
+ontologies;semantic web;web services
+augmented-audio reality;inference rules;ontologies;user model
+keyword search query;lowest common ancestor;xml
+latent dirichlet allocation;sentiment mining;stop-words;text and language applications;topic models
+2-hop;graph indexing;incremental maintenance;reachability test
+minimal perfect hashing;perfect hash function;space efficient hash table;web search engine
+dns availability;measurement infrastructure;performance-based ranking;reuse;triggered measurements
+deep web;source selection;sourcerank;web integration
+choreography;meta model integration;ontology;workflow modelling
+allocation policies;continuous queries;information systems applications
+availability;data replication;distributed objects;edge services;wide area networks
+log file analysis;usability evaluation;web;web proxy;web visualization;webquilt
+distributed;peer-to-peer;reasoning;self-organisation
+entity disambiguation;miscellaneous;topic models
+class based routing;ddos;distributed denial of service attacks;linux;security and protection;unix;web server security
+context;csurf;hearsay;hypertext/hypermedia;non-visual;partitioning;screen-reader;semantic blocks;user interfaces;voice browser;web accessibility
+computer-communication networks;directed social network;internet message board
+metasearch engine;search engine;search interface extraction;search interface representation;user interface management systems
+clustering;personal web information;topic classfication;user information mining;user interface
+caching;delay tolerant networking;mobility;network architecture and design;simulation;systems and software
+model-view-controller;patterns;template engine;web application
+agent;animation;dialogue;information presentation;media conversion
+near duplicate detection;similarity join
+collaborative filtering;recommender systems;shilling
+adaptivity;bookmark sharing;peer to peer
+content adaptation;content function;document preparation;html/wml conversion;website understanding
+document object model;focused crawling;hypertext/hypermedia;reinforcement learning
+data streams;frequent query trees;online mining;web mining;xml
+fingerprint;hamming distance;near-duplicate;search;similarity;sketch;web crawl;web document
+continuous query answering;description logics;publish/subscribe;syndication
+case study;communities;e-applications;group and organization interfaces;semantic web
+blind;screen reader;user models;visually impaired;web 2.0
+browser;information interfaces and presentation;machine learning;mobile browsing;mobile devices;small screen;thumbnail browsing;web page segmentation
+path partition;path summaries;xml;xquery processing
+approximation algorithms;facility dispersion;information search and retrieval;novelty;relevance
+end-user programming;mashup;nested table;reusable software;spreadsheet
+conflict of interest;data fusion;entity disambiguation;miscellaneous;ontologies;peer review process;rdf;semantic analytics;semantic associations;semantic web;social networks
+machine-learning;semantic web;sensor;sensor network;stream-mining;systems and software;text-mining;web of things;web-mining
+hiddenweb;learning classifiers;online learning;web crawling strategies
+domain adaptation;relation extraction;web mining
+discourse analysis;spoken dialogue systems;xpath
+information search and retrieval;recommender systems;social tagging
+information search and retrieval;link analysis;noise reduction;pagerank;spam
+image spam;local invariant features;pyramid match kernel
+classification;information diffusion;memes;microblogs;politics;social media;truthy;twitter
+natural language patterns;question answering;semantic web;sparql
+document model;similarity measure;suffix tree
+distributed annotations;emergent semantics;interoperability;language games
+decoupling;service language layer;transformation;web services;xml;xml-based service language
+compound splitting;multi-style language model;url segmentation;web scale word breaking;word segmentation
+cell phones;central asia;cross-cultural;design ethnography;developing world;emerging markets;icts;international;internet;mobile devices;mobile social software;sms;social networks;usage patterns
+derivatives;incomplete markets;services mashups;wavelets;web services
+attribute acquisition;information search and retrieval;specification finding;web search
+collaborative filtering;location and activity recommendations
+search engine switching
+asdl;computational model;formal languages;models of computation;semantics of programming languages;web services;wide spectrum
+ajax;automatic debugging;javascript;static analysis
+large scale systems;novel browsing paradigms;web navigation strategies
+attributes of people;disambiguation;information extraction;person names
+consumer review organization;product aspect hierarchy
+document preparation;interoperability;metadata;rdf;schema;xml;xslt
+cache coherency;distributed systems;dynamic data;peer-to-peer
+web information integration;web lists;web mining
+document preparation;electronic publishing;hypertext writing;hypertext/hypermedia;management reporting;open hypermedia;structural computing
+database applications;domain adaptation;feature alignment;learning;opinion mining;sentiment classification;transfer learning
+eigenvalues and eigenvectors;eigenvector computation;link analysis;pagerank
+nonnumerical algorithms and problems;population estimator;sampling;social network;undirected graph
+general;link prediction;negative edge;slashdot zoo;social network
+effective diameter;neighbourhood function;probabilistic algorithms;probabilistic counters;shortest paths
+ontology;semantic annotation of web services;semantic web services;web services discovery;wsdl
+statistical analysis;structural properties;xml documents;xml web
+ajax;ce-html;cea;consumer electronics devices;dlna;embedded browsers;mobile and tv-based services;on-line information services;pervasive web applications;upnp;user interfaces;w3c;web 2.0;web4ce
+agents;awareness;collaboration;context;critical mass;opportunistic communication
+automatic speech fecognition;content analysis and indexing;contents indexing;mpeg7-ddl;shot boundary detection;video indexing
+dynamic service coordination;dynamic web content;patterns;scalable component-based software systems;semantic interoperability;web information management systems
+flickr;information search and retrieval;interval covering;social media;tags;temporal evolution;visualization
+hashing;similarity estimation
+embedded content;functional web;multiple device operating;rfid;software architectures;ubiquitous computing;ubiquitous network
+content analysis and indexing;on-line information services;personalization;tagging;user desktop;web annotations
+browsing;clustering;document preparation;hypermedia generation;hypertext/hypermedia;knowledge representation formalisms and methods;media archives;multimedia information systems;rdf;search;semantic web
+information search and retrieval;pagerank;spam;trustrank;web search engine
+collaborative system;interaction styles;mobile phone;peer-to-peer communication;rfid;weblog;wireless networking
+flickr;geo-tags;mechanical turk;media applications;orienteering problem;rich media;travel itinerary
+genetic algorithm;longest path problem;p2p;query routing
+biased classification;biased minimax probability machine;second order cone programming;text classification
+information search and retrieval;name disambiguation;unsupervised machine learning
+adaptive application;portable devices;quality of service;web
+alias detection;aliases;bulletin boards;clustering;learning;natural language processing;personas;privacy;pseudonyms
+3d technology;graphical user interfaces;visualization;web browser
+optimization;qos;service composition;web services
+keyword-based ranking;link-based ranking;search engines;trec ad-hoc;web
+business intelligence;general;information extraction;twitter
+cuypers;document preparation;document transformation;formatting objects;hyper-media;hypertext/hypermedia;multimedia;multimedia information systems
+autocomplete;fuzzy search;interactive search
+device-independence;generic user interface description;graphical user interfaces;interaction styles;mobile devices;mobile networks;multimodal user interfaces;multimodality;uiml;voice interfaces
+linear;suffix-tree
+learning to tag;multi-modality rankboost;social tagging;tag recommendation
+ape;blog;tvml;vlog;web-casting
+database applications;functional importance;network metrics
+content spread;recommendation;social networks
+co-constraints;schema languages;schemapath;xml
+hypertext/hypermedia;miscellaneous;mobile;temporal models;user modeling;user/machine systems;wap;www
+change detection;general;web document;web page summarization
+adaptive;context-aware;ebag;hycon;hypertext/hypermedia;webdav;xlink
+miscellaneous;navigational queries;quicklinks;toolbar data;trails
+document clustering;search engine categorization
+cascades;flickr;information dissemination;social networks;viral marketing
+causality;social influence;tie strength
+background knowledge;semi-automatic ontology construction
+data extraction;deep web
+evolution correlation;mirror maintenance;web evolution
+bulletin board;h-index;log-normal;online communities;power-law;radial tree;social networks;thread;weblogs
+learning;learning to rank;relevance measures;web search
+indexing;peer-to-peer;range queries;resource discovery
+data mining;searching and ranking
+learning to rank relational objects;performance evaluation;pseudo relevance feedback;relational ranking svm;topic distillation
+equality-generating dependencies;functional dependencies;relational storage;xml data
+automatic image annotation;image-text alignment;relevance re-ranking
+user-centric;web crawling;web page refreshing
+clustering;data mining;email;gibbs sampling;learning;social network;statistical modeling
+collaborative tagging;content analysis and indexing;high-level music descriptors;information search and retrieval;metadata enrichment;theme tag recommendations
+xml query;xml schema evolution
+automatic programming;design tools and techniques;document preparation;dublin core;historic costume collection;language classifications;museums online archive california;network architecture and design;ontology;open archive initiative;semantic web;thesaurus;xml
+authorisation;owl;security and protection;swrl;web service security
+bioinformatics;e-science;scientific workflows;web programming;web service coordination;web services
+cascades;competition;epidemics;winner-takes-all
+concurrency control;consistency maintenance;xml
+application framework;computer-aided software engineering;electronic negotiation;ontology;xml;xml
+bpel;middleware;web service composition
+authoring tools;collaborative systems;educational web applications;learing technology standardization;learning technology;practice and experience;web-based course delivery systems
+absorbing random walks;keyword generation;markov random fields;query click logs;sponsored search
+on-line information services;social networks;trust
+accuracy;collaborative filtering;diversification;metrics;performance evaluation;recommender systems
+consumer surplus;information search and retrieval;product search;ranking;text mining;user-generated content;utility theory
+inference;learning;models;privacy;social networks
+cellular architecture;world wide web
+approximation;google distance;knowledge representation formalisms and methods
+bilinear models;dynamic features;general;personalization;ranking;recommender systems;regression;user and content profile
+index structures;optimization;rdf querying
+portable storage;process migration;virtualization;web browsing
+qos;quality of services;tmodel;uddi;uddi business registries;uddi extension;web services
+bibliometrics;context;gleason's theorem;recommender systems
+exploratory visualization;graphs;matrices;semantic web;user interfaces
+pattern cardinality estimation;statistical summaries
+meaning;representation;semantic web
+learning;naive bayes;web-scale taxonomy
+component model;graphical user interfaces;interaction styles;spreadsheet-based mashup patterns;spreadsheets;web data mashups
+collaborative filtering;complex systems;delicious;emergent semantics;knowledge representation formalisms and methods;power laws;tagging
+query log analysis;search results diversification
+aggregation;disaggregation;general;link analysis;markov chains;pagerank;power method;stationary vector;updating
+caching;heterogeneous database synchronization;information and communication technologies for development;low-bandwidth application;offline access;resource constrained low end pcs
+activity inference;activity models;rfid;web mining
+information storage and retrieval;topic analysis;topic transition;user modeling;web search
+concepts;dispersion;education;information search and retrieval;readability;textbooks
+html;ontologies;scripts;semantics;web services
+chatroulette;obscene content detection;online video chat
+models;quality;wikipedia
+sensemaking;user interfaces;visual snalytics;web browser;www
+identifier resolution;mobile computing;nomadic computing;physical hyperlinks;ubiquitous computing
+abstract profile;compliance;petri nets;ws-bpel
+best practice pattern;methodologies;model-driven architecture;security configuration;service-oriented architecture;web services security
+blocking;broken links;information search and retrieval;instance matching;link integrity;linked data
+miscellaneous;query classification;user goals;web search
+peer-to-peer;semantic link;web service
+extensible qos model;qos;ranking of qos;web services
+entity relation discovery;link;web table
+clusters;dispatching algorithms;distributed systems;load balancing
+content summarization;literature search;natural language processing;pubmed;tag cloud;tagging;text mining;visualization
+game theory;implementation;online q&amp;a forums;social computing;user generated content
+past web;web archive browsing;web archives
+application server;ontology;semantic web;software architectures
+collection summary;geo-referenced information;geo-referenced photographs;information search and retrieval;photo browsing;photo collections;semantic zoom
+graphical models;intent analysis;query templates
+community detection;game theory;network formation;query incentive networks;social networks;viral marketing
+api;search engine
+document object model;minimum description length principle;segmentation;topic distillation
+pragmatic knowledge;service composition
+fuzzy description logic;fuzzy reasoning;information retrieval;information search and retrieval;semantic portal;semantic search
+gpu;index compression;information search and retrieval;ir query processing;search engines
+content redundancy;information extraction;miscellaneous
+probabilistic topic model;recommendation;travelogue mining
+document storage;scalability;systems and software;web document monitoring
+cc/pp;profiles;representations;situated-aware applications;vocabulary;web architecture;xml
+band-width;caching;developing regions;ethiopia;latency;limited connectivity;personal data;prefetching;sms;www access
+adaptive approach;correlation of publications;information search and retrieval;ontology-based
+biased pagerank;information search and retrieval;open directory;personalized search
+digest;fusion of broadcast and web content;live chat;metadata generation;semantic analysis;video;viewer;viewpoint
+burstiness;multi-tiered systems;performance evaluation;resource allocation
+index structures;linked data;rdf querying
+activity taxonomy;content object handling;information seeking;mobile web;personal space extension
+mindmap;miscellaneous;software engineering;user-driven composition;web application
+agent communication languages;daml-s;ontologies;semantic web;web services
+annotation;document and text editing;information integration;mapping and merging;metadata;semantic web;wrapping
+dirichlet processes;learning;online inference;topic models
+description logics;logic programming;ontologies;semantic web;systems and software
+data extraction;information search and retrieval;web crawler;web query;xml
+link structure;pagerank;personalized search;search;search in context;web graph
+case-based reasoning;cross-company effort model;effort estimation;single-company effort model;stepwise regression;web applications;web projects
+content recommendation;ctr positional correlation;on-line information services
+computer-aided software engineering;conceptual modeling;ontology;personalization;semantic web
+cache relocation;learning automaton;mobile computing;path prediction;proxy cache;w4
+fraudulence detection;learning;multiple instance learning;online auction;online feature selection;online modeling
+colorblindness;computers and society;edge services;vision;web accessibility
+graph clustering;social network analysis
+computer uses in education;document capture;e-learning;knowledge management;semantic web
+linked data;navigation;semantic web;systems and software;web of data
+browsing;human computation;information networks;wikipedia;wikispeedia
+group and organization interfaces
+general;ugc;video sharing;workload characterization
+3g networks;periodic transfers;periodicity detection;radio resource optimization;rrc state machine;smartphone applications
+bloom's taxonomy;companion website;electronic publishing;semantic web;textbook
+mapreduce;scalability;topic models
+query refinements;random walks
+assessment;credibility;miscellaneous;podcasts;quality;user preferences
+aggregated tag suggestion;collective knowledge;content analysis and indexing;flickr;on-line information services;photo annotations;tag characterisation;tag co-occurence;tag recommendation
+information access;semantic annotation;semantic web;semantic wikis;wikis
+blog mining;crosslanguage;miscellaneous;trend visualisation
+discrete mathematics;pagerank;web graph
+architecture;assembly;discovery;interface descriptions;metadata;teaching and learning environments;web services
+feature similarity;recommender system;social network
+character sets;content analysis and indexing;language;language digital divide;language identification;scripts;web crawler
+content quality models;information search and retrieval;page structure;search;segmentation
+device independence;interaction manager;mobile network;multi-user applications;multimodal interface;session management;user interface management systems
+functional programming;pipelining;programming languages;semantic web;web services;xml
+distribution fitting
+bioinformatics;design tools and techniques;rdf;semantic web;user interface;web services
+e-democracy;e-government;interaction;interface;user interfaces
+accessibility;clustering;content extraction;context;electronic publishing;html;reformatting;speech rendering;website classification
+information search and retrieval;meta search engines;open source
+compatibility;format;schema;xml
+clustering;rss;story;weblog
+entity-relation search;index design;information search and retrieval;systems and software;web-scale
+component model;graphical user interfaces;interaction styles;presentation component;presentation composition;presentation integration;user interface;xpil
+document capture;systems and software;table detection;web information extraction
+asynchronous multi-process event-driven;multi-process;multi-thread;single event-driven process;symmetric multi-processor;system-on-chip
+efforts metrics;navigation architecture
+holistic twig join;labeling scheme
+context;information spread;network science;social networks;structure
+case-based reasoning;general;metrics;prediction models;web effort prediction;web hypermedia;web hypermedia metrics
+image ranking;image summarization;information search and retrieval;pagerank
+paraphrasing;query rewriting;query substitution;sponsored search
+application-level web security;component-based design;security policy description language
+browser cache;cascading style sheets;personalization;phishing;sniffing
+access control;same origin policy;trust;unauthorized access;web services
+cross-domain label propagation;heterogeneous knowledge propagation;text corpus and web images;translator function
+classification;graphical user interfaces;html;www
+computational linguistics;content systems;information retrieval;information search and retrieval;machine learning;text mining
+fastcgi;php;scripting;sendfile;web server;zero copy
+authority and expertise in online communities;community question answering;graph theory;information search and retrieval;on-line information services
+adaptive hypermedia;cognitive styles;user modelling;user trials;web applications
+metadata;query;rdf;semistructured data
+named entity;ontology;query logs
+general;pricing mechanisms;recommendations;shapley value
+clickthrough rate;interaction effects;miscellaneous;modeling
+browser;client-side programming;css;dom;events;general;html;javascript;language classifications;mash-up;script;scripting;stylesheets;xhtml;xml;xquery
+formal definitions and theory;server-side scripting;web application security
+argument;controversy;evaluation;wikipedia
+aliasing;applications;cache hierarchies;caching;dtd;duplicate suppression;duplicate transfer detection;http;hypertext transfer protocol;performance analysis;redundant transfers;resource modification;world wide web;www;zipf's law
+constraint reasoning;integrity constraints;keys;object identity;subtyping;xml;xml;xml schema
+distributed rdf repositories;peer-to-peer;semantic web
+sampling;social network
+applications;electronic publishing;face recognition;machine learning;text analysis;web search
+click logs;implicit feedback;presentation bias
+link analysis;searching;topic distillation
+general;general;hits-based algorithms;information retrieval;relevance scoring methods
+dynamic application placement;performance management;system management
+information search and retrieval;partitioned multi-indexing;real time;scalable;social search
+database replication;partial replication;scalability;web applications
+content analysis and indexing;flickr;random walk;recommendation;search;tag ranking
+information search and retrieval;mixture model;sentiment analysis;topic models;topic-sentiment mixture;weblogs
+optimization;personal photos;social networks;summarization
+distributed eigenvector computation;peer-to-peer;reputation
+collection overlap;collection selection;statistics gathering
+click model;learning to rank;ranking svm
+entity pages;parallel paths;semi-structured data;web structure mining
+annotations;annotea;fluid documents;rdf;web augmentation with open hypermedia;xlink;xpointer
+mobility;mobility support tool;travel;travel objects;visual impairment
+assistive technology for blind users;discussion boards;navigational aid;segmentation
+duplicates;mining;rules;similarity
+cache;client-side;data base;database;general;web
+circuit based software development;component based development;computer-aided software engineering;patterns;rapid application development;visual programming;web application development;web engineering
+click-through data;event detection;evolution pattern;marginalized kernel;semantic similarity measure
+content analysis and indexing;general;geolocation;graphical model;language model;latent variable inference;topic models;twitter;user profiling
+information search and retrieval;learning;long tail theory;rare item detection;rareness measure
+client-server systems;distributed systems;language constructs and features;network computing;remote method invocation;user interface toolkit;user interfaces
+publication search;temporal dimension of search;web search
+interoperability;learning object repositories
+information search and retrieval;search;semantic web
+machine learning;natural language processing;reputation;wikipedia vandalism detection
+back button;flow;pagerank;random walk;web analysis
+multimedia information systems;multimedia streaming;proxy caching;segment-based caching;variable-sized segmentation;video caching
+compression;dom;internet;internet;sax;wbxml;xml;xml
+document summarization;ranking;tag
+computer uses in education;education;metadata;rdf;resource cataloging;semantic web;technical assistance
+index sizes;information search and retrieval;search engines;size of the web
+background information;boosting;incremental learning;learning to rank
+performance evaluation;personalization;search engines
+b2b;e-business;e-catalog;e-procurement;pricing;xml
+minimum description length;miscellaneous;query suggestion;question recommendation;tree cut model
+clustering;learning;link analysis;som;visualization;wikipedia
+geolocation;web search
+keys;logical design;relative keys;xml
+categorization;language model;link analysis;machine learning;search engines;web mining
+decision support;description logics;e-commerce;knowledge representation;matchmaking
+information extraction;markov logic networks;miscellaneous;site-level knowledge;structured data;web forums
+geo-tagged data;miscellaneous;place recommendation;user-generated content
+querying semantic web databases;rdf;sparql extensions
+image processing and computer vision;image recognition;probabilistic method;web image mining
+document preparation;formal languages;learning;regular expressions;schema inference;xml
+post-click search behavior;relevance estimation
+classification;communication networks;communications;information flow;twitter;two-step flow;user/machine systems
+markov logic;probabilistic reasoning;semantic web;uncertainty, fuzzy, and probabilistic reasoning
+community finding;graph conductance;link analysis;random walks;seed sets
+internet
+hidden web;hierarchical classifiers;learning classifiers;online database directories;web crawlers
+description logics;ontology web language;resource description framework;resource description framework schema;semantic web
+ambient media;augmented reality;visitor awareness;web;web activity;web awareness;web-based interaction;web-based interaction
+document capture;systems and software;table detection;visual analysis;web information extraction
+automated reasoning;daml;distributed systems;ontologies;representations;semantic web;web service composition;web services
+compactness;lostness;path similarity;stratum;web navigation
+crawler;incremental crawler;interaction styles;optimization;performance evaluation;scalability
+content analysis and indexing;markov logic networks;ontology;semantic web;wikipedia
+web mining;website improvement
+miscellaneous
+information search and retrieval;rated aspect summarization;rating prediction;short comments
+boilerplate;data cleaning;data mining;information search and retrieval;templates;web mining
+social network
+association rule mining;meta-patterns;xml data
+inference etc.;knowledge management;ontology
+design tools and techniques;entity matching;linked data;semantic web
+graph theory;pagerank;web search
+graph models;model validation and analysis;social networking
+affinity propagation;k-means;short text;svd
+information search and retrieval;sponsored search
+distributed collaborative filtering;friend network;p2p system
+certificate;eavesdropping attack;https;interaction styles;just-in-time instruction;man-in-the-middle attack;password;safe staging;screen design;ssl;web browser;well-in-advance instruction
+accommodation;coordination;dependence;language;linguistic convergence;linguistic style;online communities;power;relations;social and behavioral sciences;social status
+data mining;hypertext/hypermedia;miscellaneous;web characterization;web pages;web spam
+general;information portals;semantic web
+automated media monitoring;information mining and analysis;multi-linguality;open source text
+internet uses;systems and software;traffic analysis;usage data;user-centric traffic data;web usage mining
+approximate set similarity;click spam detection;cliques enumeration;coalition fraud attacks;real data experiments;similarity-sensitive sampling
+crawling;netsifter;sampling;software architectures;uima;webfountain
+peer-to-peer;performance evaluation;similarity indexes
+availability;group communication;transactions;web services;ws-caf
+overlap of web search results;search engine;web coverage
+centroid;denormalized cosine measure;inner-class;inter-class;text classification
+data-flow;deep-annotation;event;interoperability;portal ontology;portlet interoperability;reusable software;software architectures
+performance evaluation;scheduling policy;web crawler;web page importance
+aspect;browser;coding tools and techniques;ecmascript;javascript;membrane;reference monitor;remote object;same origin policy;security and protection;web security;wrapper
+concept extraction;content analysis and indexing;crawling;digital libraries;indexing;information retrieval;information search and retrieval;language analysis;linguistic analysis of web text;natural language processing;part-of-speech tagging;phrase identification;web search engine;web searching;word sense disambiguation
+contract signing;cryptographic protocols;digital signatures;e-commerce;fair-exchange;network protocols;rsa
+flickr;geographical gazetteer;georeferencing;image mining;text mining;tourist sites;visit times
+graph mining;map/reduce;parallel data mining;web usage mining;web user modeling
+advertising networks;approximate queries;data streams;duplicate detection
+apache;dc-apache;distributed web server;load balancing;replication;scalable web server;servers;www
+keyword bidding;multiple-choice knapsack problem;online knapsack problem;sponsored search auction
+causal relation;search engine query log;time series
+data denormalization;distributed systems;scalability;web applications
+online communities;opinion mining;plagiarism;review helpfulness;review utility;sentiment analysis;social influence
+a/b testing;bucket testing;miscellaneous;random walks;social networks
+named graphs;semantic web;trust mechanisms;trust policies
+content filtering;content promotion;miscellaneous;social and behavioral sciences;social networks
+information search and retrieval;query ambiguity;result diversity;search diversity
+approximation algorithms;budget allocation;general;influence models
+connection clarity;learning;novelty;post-click news recommendation;relatedness;relevance;transition smoothness
+2.0;communications applications;search;social;social networks;systems and software;user content;web2.0
+browsers;geographic information systems;geospatial information retrieval;interaction styles;navigation
+web
+collaborative web;digital libraries;hypertext/hypermedia;modeling debate;scholarly interpretation;scientific publishing
+document structure;rdf;semantics;style;xhtml+smil;xslt
+general;master data management;modeling;ontology;product information management;semantic web
+access control;certificates;internet;internet;roles;security and protection;soap;standards;xml;xml
+query mining;query recommendation;query templates
+agents;domotics;reusable software;semantic web;software architectures
+active learning;convex optimization;fisher information;information search and retrieval;logistic regression;text categorization
+advertising;bayesian inference;collaborative filtering;machine learning;online services;recommender system
+canopy;learning;record linkage;reference matching
+caching;information storage and retrieval;query processing and optimization
+client characterization;client connectivity;network protocols;server adaptation
+alloy;daml+oil;ontologies;racer;semantic web;z
+choreography;dominant role;dominated choice;dominated loop;implementation;projection
+communicating finite sate automata;conversation specification;e-service composition
+content distribution;dynamic content;mirroring;portability;replication;surrogate;web server
+adaptive web site;ant colony optimization;learning;model validation and analysis
+betweenness centrality;clustering coefficient;degree distribution;diameter;shortest path
+gnutella;peer-to-peer;search engine;world wide web
+data extraction;edit distance;schema inference;web
+image search reranking;information search and retrieval;multimedia information systems;opinion mining;sentiment analysis;user comments;visual aesthetics modeling
+information search and retrieval;link analysis;pagerank;predictive ranking
+click data;image re-ranking;image search;information search and retrieval
+content location;geographic location;location-based web application;provider location;serving location;web location
+adaptive bidding;concentration bounds;display advertising;general;guaranteed delivery;guess-then-double algorithms
+aggregate function;grouping;xml
+mixed-initiative interaction;out-of-turn interaction;program transformations;web dialogs
+concept networks;cross-reference;information search and retrieval;knowledge based search;query categorization;unsupervised learning;web mining
+bayesian network;sentence retrieval;term relationship
+content analysis and indexing;flickr;image clustering;on-line information services;visual diversity
+full-text search;miscellaneous;xquery
+adaptive user interfaces;tracing;tree edit distance;tree pruning;web blocks
+cross-site scripting;invasive software;script injection;unauthorized access;web application security
+enterprise search;faceted search;information search and retrieval;social search
+knowledge bases;semantic search;summarization
+on-line information services;pagerank;web link ranking
+xml
+folksonomy;information retrieval;language modeling;social annotations
+collaborative recommendation;evaluation;faceted search;interactive search;personalization;user modeling
+adversarial interface design;design principles;evil interfaces;malicious interfaces;miscellaneous;web usability guidelines
+model-theoretic semantics;representation;semantic web
+information search and retrieval;reuse detection;weblogs
+feedback control;performance of systems;quality of service;slowdown
+behavior targeting;contextual advertising;heat diffusion;influence propagation;online advertising;social network analysis
+collaborative filtering;learning;meta search;preference aggregation
+relation extraction;relational duality;relational similarity;web mining
+advertisement auctions;analysis of algorithms and problem complexity;bidding agent;equilibrium analysis;sponsored search
+bengwal;blogs;crf;emotions;expression;holder;svm;syntactic argument structure;topic;tracking
+adaptive query routing;information search and retrieval;peer collaborative search;performance evaluation;topical crawlers
+content evolution;information search and retrieval;search engine;text;web;web mining
+hypertext/hypermedia;link service;metadata;navigation;ontology;open hypermedia
+advertising;approximation algorithms;auctions;externalities;general
+behavior analysis;social networks;social signals;social ties
+general;separation;topology density;web metrics
+crowd sourcing;exploratory search;information seeking;multi-domain search;search engine;search service;social network
+join query;peer-to-peer;semantic link;top-k
+communications applications;facebook;on-line information services;online social networks;privacy;social applications
+applications;applications;compression;networks;protocol architecture;services;soap;standards;web services;wireless;wsdl
+object-capabilities;privilege separation;software architectures;web applications
+host graph;nation graph;web graph;web structure
+click model;intent bias;intent diversity;search engine;user behavior
+document classification;opinion mining
+anycast;connection disruption;content delivery networks;internet
+alignment;interoperability;machine learning;mapping;matching;ontology
+graph theory;link analysis;link prediction;network analysis
+information extraction;information search and retrieval;search process
+business process automation;daml+oil;declarative;description logic;electronic commerce;electronic contracts;intelligent software agents;knowledge representation;knowledge-based;logic programs;ontologies;owl;process descriptions;process knowledge;rdf;representations;rules;semantic web;semantic web services;web services;xml
+crawler;robots exclusion;robots.txt;search engine
+hypertext/hypermedia;miscellaneous;user interfaces;wai;wcag;xpath;xpointer;xquery
+data integration;enterprise data management;linked data;on-line information services;semantic link discovery
+biaxes path expression;dewey indexing;updates;xml;xpath query optimization
+culture;information retrieval;media arts;network arts;software agents;world wide web
+blog;community;content hole search;miscellaneous;sns
+b2b;business-to-business;change response;content analysis and indexing;continual query;information quality;semantic web
+anchor text;information search and retrieval;language modeling;link spam
+on-line information services;rdf;semantic web;wiki;wikipedia
+collaborative filtering;database applications;graphical models;mood;music;recommendations;sessions;social media;taste
+graphical user interfaces;multi-modal browsing;web proxy
+html5;javascript;json;object persistence;object-oriented programming;web storage
+information search and retrieval;language models;search query processing;very large-scale experiments;web n-gram
+thin-client computing;web performance;wireless and mobility
+accessibility;semantic web;visual impairment;web engineering
+idref-awareness;interoperability;ontologies;rdf;schema-awareness;semantic integration;xml;xpath
+clickthrough data;collective knowledge;concepts;content analysis and indexing;content analysis and indexing;image annotation;implicit feedback;search logs;supervised learning
+assisstive device;content adaption;web transaction
+encyclopedias;extraction;information search and retrieval;natural language processing;on-line information services;organization;web search
+data exploration;faceted search;information search and retrieval;wikipedia
+learning to rank;relevance and freshness modeling;temporal features
+observant system;transaction time;versioning
+keyword query interpretation;query history
+game theory;privacy;social networks
+active learning;multi-agent system;web-based education;xmeta;xml
+drive-by download exploits;efficient web page filtering;invasive software;malicious web page analysis
+context;semantics;similarity;web services
+context-awareness;information search and retrieval;query auto-completion;query expansion
+document routing;index compression;index partitioning;inverted index;miscellaneous;online algorithm
+rdf;semantic web;xml
+dynamic deployment;remote agents;software architectures;web customization
+communities;dense subgraphs;web graph
+classification;filtering;microblogging;social tv;twitter
+classification;miscellaneous;ordinal regression;search of definitions;text mining;web mining;web search
+anchor text;decision tree learning;focused crawling;shortest path
+approximate string join;data integration
+automated negotiation;daml;e-commerce;electronic data interchange;matchmaking;semantic web;service description
+explicit link;implicit link;miscellaneous;query log;virtual document;web page classification
+feature extraction;figures;information search and retrieval;machine learning
+online shopping;product images;shopping search
+content analysis and indexing;hmm;information extraction;learning;rules based systems;semantic web;text mining
+geographical relevance;human computation;image annotation;image search
+annotations;metadata;rdf;semantic web;web;world-wide web;xml;xml;xpointer
+experienced web users;information re-access;questionnaire study;user interface management systems;web search
+data description languages;peer data management systems;semantic web;xml
+handicapped persons/special needs;input devices and strategies;standards;user interface;web accessibility
+event-condition-action rules;reactive functionality;rule analysis;xml;xml repositories
+data mining;entity extraction;general;query logs
+balance;coverage;diversity;structural svm;summarization
+blended learning;elearning;online tests
+a/b testing;bucket testing;network bucket testing;nonnumerical algorithms and problems;social networks
+information search and retrieval
+diversity;information search and retrieval;intents;subtopics
+graphical user interfaces;intelligentbox;interaction styles;visualization;web service;worldbottle
+deep web;source selection;sourcerank;web integration
+application placement;performance management
+algorithm;graph theory;hypertext/hypermedia;learning
+scheduling;task assignment;team formation
+crawling;deep web;miscellaneous;probing;service class
+adaptive content service;adaptive web;content re-use;e-learning;learning object metadata;learning portal;student model server
+affiliation networks;milgram's experiment;social networks
+metrics;miscellaneous;symbolic data analysis;web clustering
+context;machine learning;process models;user interface management systems;web transaction
+computer-aided software engineering;exceptions;failure;navigation behavior;web applications;workflow
+content analysis;information retrieval;tv news;video ocr
+markov chain;performance evaluation;rank aggregation;semidefinite progromming;supervised learning
+automatic tuning;gradient method;importance sampling;simulated annealing;system configuration
+link recommendation;random walk
+applications;http;mutual authentication;web systems
+information extraction;opinion analysis;sentiment analysis;visualization
+query clustering;search engine;user log;web data mining
+benchmark;openrulebench;performance evaluation;rule systems;semantic web
+crawling;distributed systems;indexing;query processing;web search
+documentid reassignment;index compression
+aggregates;distribution of relevant documents;information search and retrieval;web ir
+image;peer-to-peer;similarity
+degree of separation;homophily;influential;information diffusion;online social network;pagerank;reciprocity;retweet;social and behavioral sciences;twitter
+information search and retrieval;sampling;search engines;wand;weighted and
+information extraction;search engine;wrapper generation
+clustering;miscellaneous;record extraction
+community detection;distance metric learning;incomplete information networks
+content distribution networks;continuous aggregation queries;data coherency;dynamic data;query dissemination cost
+web measurement;web mining;web site classification
+components;framework;integration;knowledge representation formalisms and methods;semantic web;virtual environments
+news;novelty detection;personalization
+browsing;information search and retrieval;link analysis;navigation;underspecified search tasks;web search
+graph theory;information search and retrieval;pagerank;visual similarity
+information extraction;information search and retrieval;visual analysis;web mining;web page representation;web tables
+handheld computers;interaction styles;mobile computing;pda;personal digital assistant;portable devices;summarization;ubiquitous computing;wap;wireless computing
+collective knowledge;folksonomies;social information processing;taxonomies
+delta encoding;http;network protocols;persistent connections;standards;web performance
+proportional transportation similarity;xml document clustering
+learning;social network;staring people discovery
+general;mash-up;pipes;rdf;semantic web
+graph proximity search;personalized pagerank
+keyword extraction;miscellaneous;online advertising;social snippets
+tree edit distance;web crawlers;web data extraction
+enterprise search;high precision information retrieval;information search and retrieval;intranet search
+adaptation;expiration times;volatile environments;web services
+information bottleneck;intercluster similarity;intracluster similarity;query expansion;term-term similarity matrix;topic-oriented
+adaptive web;design method;eca rule;user modeling
+haystack;on-line information services;rdf;semantic web;tree edit distance;user interfaces;wrapper induction
+performance evaluation;xml binary formats;xpath processing
+information search and retrieval;link analysis;pagerank;poprank;web information retrieval;web objects
+social media analytics;social media credibility;twitter
+disconnected search;focused search;knowledge agents;pervasive devices;portable devices;web
+content analysis and indexing;entity extraction;entity ranking;entity search;information search and retrieval;structured database search
+complex event processing;etalis;logic programming;rule systems;semantic web;streams
+database applications;keyword search;unified keyword search;web pages;xml
+implicit feedback;learning from user behavior;mining search and browsing logs;web search
+entity tagging;miscellaneous;tag association;tag discovery
+attention;mobile web;mobility;multimodal feedback;usability
+hidden web;systems and software;web data extraction;web form extraction;web form mapping
+adaptivity;constraint-based graphics;constraints;csvg;differential scaling;document formats;interaction;miscellaneous;scalable vector graphics;semantic zooming;svg;user interfaces
+flickr;geotag;information search and retrieval;object recognition;representative images
+actions;active objects;entity-centric search;query log mining;web search
+data mining;hypertext;information retrieval;information search and retrieval;web searching
+password security;website user authentication
+catalog integration;categorization;classification;web marketplaces;web portals
+computer conferencing, teleconferencing, and videoconferencing;html;hypermedia systems;internet;internet;meeting capture;meeting support systems;multimedia applications;note taking;video;video applications
+interaction styles
+d-gap;index compression;inverted file;sequential pattern
+general;http;rest;web architecture;web services
+data model;scalability;system architecture
+information search and retrieval;learning;pagerank;ranknet;relevance;search engines;static ranking
+pseudo-relevance feedback;query suggestion;random walk
+web robot population
+frequent access patterns;information visualization;systems and software;visual data exploration;web usage mining
+content analysis and indexing;content and link similarity;information search and retrieval;precision;recall;semantic maps;web search
+information search and retrieval;interaction information;query reformulation;topic
+ad-hoc entity identification;entity extraction;information search and retrieval;mentionrank;named entity disambiguation;targeted disambiguation
+applications;compression;http;web caching;web proxies;www
+join query;prune;top-k
+logical structure;ontology;relationship extraction;semi-structured document
+accessibility;blind;search engine;usability;user interface design
+ontologies;semantic web;semantic web challenge groups;user interfaces
+clustering;content analysis and indexing;information extraction;information search and retrieval;new search applications and interfaces;on-line information services;personalized web ranking;search engines;web snippets clustering
+general;liquid architectures;programming models;rest;web services
+del.icio.us;isid;performance evaluation;social networks;tag
+description;formulation;linguistic matching;neighboring operation;ontology matching;vector space model
+knowledge representation formalisms and methods;museum collections;personalization;recommender systems;semantic browsing;user profiling
+collusionrank;link farming;pagerank;security and protection;spam;twitter
+breakpoints;css;debugging;dynamic;firebug;html;javascript;web
+miscellaneous
+analogical reasoning;community question answering
+distributed rules;information storage and retrieval;rules;semantic web;sparql;views;well founded semantics
+automata;sax;xml parsers
+containment queries;information search and retrieval;structural joins;xml
+information search and retrieval
+on-line information services;web service;web services matching
+decision-theoretic;formal model;miscellaneous;miscellaneous;satisfiability;semantic web
+applications;internet usage;interviews;rural networks
+model development;network protocols;peer-to-peer;traffic characterization;traffic models;web
+layered graph model;link analysis;multi-modality data;multifaceted knowledge base;multimedia retrieval;relevance feedback
+click modeling;click-through rate;dynamic bayesian network;information search and retrieval;learning;on-line information services;ranking;web search
+automatic question answering;community-based question answering;question-answering systems
+bayesian generative models;hierarchical clustering;learning;stochastic block models;topic models
+browsing;databases;information visualization;meta-data;rdf;search;semantic web;tools;user interface
+browser extension;computer uses in education;connectivity;hypertext/hypermedia;web acceleration
+binary classifier;miscellaneous;skewed class distribution;stratified sampling;threshold selection;web-page classification
+categorization;content navigation;dynamic folder;xml
+information extraction;news engines;news ranking
+cultural capital;e-learning;lurking;web forums
+database applications;expressions and their representation;variable binding dependency;xquery containment
+automatic taxonomy learning;content analysis and indexing;hierarchical classification;information search and retrieval
+content distribution networks;data consistency;data dissemination;dynamic data;leases;pullc;push;scalability;world wide web
+content analysis and indexing;semantic analysis;semantic similarity;temporal dynamics;temporal semantics;word relatedness
+africa;cctld;digital-divide;geographic location of servers;nic registration information;number of hops;offshore server;response time;traceroute
+security and protection
+apache server;client classification;computer system implementation;content delivery;general;httperf;performance of systems;server adaptation;web performance
+causality;entropy;point processes;prediction;social networks;spam
+information search and retrieval;query log mining;query suggestion;search user interface;web search
+data description languages;peer data management systems;query algebras;xml
+rdf;semantic web;sparql
+internet application;organization and design;overload;sentry
+3d graphics;3d web;hypertext;user interface;user interfaces
+anonymization;information search and retrieval;personalized search;privacy-preserving data publishing
+content analysis and indexing;information search and retrieval;markup languages;ontology;rss;semantic web
+attribute inference;groups;privacy;social networks
+clustering;web personalization;web usage mining
+802.11 mesh network;802.15.4;network architecture and design;power management;rural networking;wake-on-wlan
+computer uses in education;data mining;e-learning;navigational patterns;personalization;scorm;user interfaces
+caching;content integrity;security and protection;web security
+parallelization;web crawler;web spider
+group key management;rekeying;secure group communications;security and protection
+distributed systems;reputation;security and protection;spam filtering;structured p2p
+general;influence;passivity
+cyberlockers;file hosting services;rapidshare;web 2.0
+assembly;computer-managed instruction;content management;data retrieval;information retrieval;instruction;learning object;linking;lom;metadata;organization;rdf;semantic web
+machine learning;question answering
+asynchronous communication;bpel;composite web services;design patterns;design tools and techniques
+credibility;dispute;web
+autonomic website;generalization;learning;learning automata;models
+spath;xml;xml schema;xpath
+application servers;dynamic placement;startup performance;web hosting
+collaboration;creativity;group and organization interfaces;hci;music;user interfaces;user interfaces
+information extraction;minimum description length;structural clustering
+combinatorial auctions;general;internet advertising;structural approximation;supply guarantee
+axiomatic approach;general;recommendation systems;reputation systems;trust networks
+plsa;question answering;question recommendation
+general;identity theft;social network security
+adaptive page rank;graph processing;neural networks
+information search and retrieval;network visualization;sampling;visualizing the web
+cloud;network;optimization;qos;service composition;web services
+a* search;query completion;spelling correction;transformation model
+streaming server placement;vpns
+context-aware search;variable length hidden markov model
+crowdsourcing;data description languages;databases;games;probabilistic
+domestication;information intent;interaction styles;weak labeling
+bayesian network;inference;knowledge management;ontology
+matchmaking;on-line information services;semantic web services
+active learning;hodge decomposition;miscellaneous;multi-objective ranking
+message-based interactions;synchronizability
+emergent semantics;miscellaneous;semantic web;social annotation;social bookmarks
+association rule mining;rdf mining
+akamai;cdn performance;content delivery networks
+data extraction;form filling;general;web applications
+adaptation;learning repositories;ontologies;p2p;personalization;standards;web services
+data streams;information search and retrieval;link-analysis;probabilistic algorithms;scalability;similarity search
+authenticity;merkle hash tree;web content distribution
+application framework;hypertext/hypermedia;metadata;rdf
+focused crawling;relational subgroup discovery
+eavesdropping;https;pharming;same-origin policy;unauthorized access
+click through rate;cpc;ctr;gbdt;gradient boosted decision trees;information search and retrieval;jobs;learning;linear regression;prediction;treenet
+constraints;csvg;differential scaling;interaction;multimedia information systems;scalable vector graphics;semantic zooming;svg;three-dimensional graphics and realism;user interfaces
+auction;dynamics;miscellaneous;peer-to-peer lending service;user behavior
+clustering;general;name disambiguation;tagging
+clustering;data record extraction;information extraction
+anchortext;community ranking;enterprise search;information search and retrieval
+bioinformatics ontology;biological ontology development;glyco;glycoproteomics;information search and retrieval;miscellaneous;ontology population;ontology structural metrics;propreo;semantic bioinformatics
+concept and image summarization;miscellaneous
+change in pagerank;information search and retrieval;miscellaneous;pagerank;random surfer model;search engine's impact;web evolution
+adaptive hypermedia;computer uses in education;content-based adaptation mechanism;distance education;end-user quality of experience
+distributed indexing;embedded databases;inverted files;pipelining;text retrieval
+anycast;autonomous system;cdn;load balancing;miscellaneous;routing
+answer extraction;answer selection;information retrieval;miscellaneous;natural language processing;query modulation;question answering;search engines
+discovery;general;loosely coupled systems;rest;service management
+cooperation support;cooperative learning;learner-centered approaches;steam - structuring information in a team;web-based learning and teaching
+name alias extraction;semantic web;web mining
+evaluation;object retrieval;semantic search
+generative models;social rating networks;temporal dynamics;user behavioral modeling
+definition generation;definitional question answering;information search and retrieval;pseudo-relevance feedback;soft patterns;unsupervised learning
+information search and retrieval;query log;search result ranking;social tagging
+media fragments;video accessibility;video url
+inverted index;prospective search;query processing
+bandwidth optimization;content addressable storage;database caching;distributed systems;relational database systems;systems;wide area networks
+handheld device content adaptation;semantic bookmarking;web page partitioning
+assistment;computer-assisted instruction;intelligent tutoring system;learning;mcas;predict
+content analysis and indexing;distributed and peer-to-peer search;information search and retrieval;miscellaneous;semantic overlay networks
+rewriting;sparql query;sparql views
+hypertext;information search and retrieval;pagerank;ranking
+graph-based regularization;information search and retrieval;social networks;statistical topic models
+data release;differential privacy;query click graph;search logs;security, integrity, and protection
+archiving;crawling;extraction;hypertext/hypermedia;web application;xpath
+general;on-demand broadcast;scheduling algorithms;time constraints;web
+miscellaneous;social network;user interaction;web mining
+fingerprint;information search and retrieval;link-analysis;probabilistic algorithms;scalability;similarity search
+dynamic query suggestion;query context
+general;information systems applications;internet;learning management system

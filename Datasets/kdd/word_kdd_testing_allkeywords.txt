@@ -1,0 +1,755 @@
+probabilistic algorithms
+invasive software;malicious software
+association rules;frequent closed itemsets;mining methods and algorithms
+indexing;representations;time series
+aspect identification;information search and retrieval;latent rating analysis;review mining
+association rule;impact rule;information search and retrieval;learning;numeric data;search
+automated software testing;finite element solver;info-fuzzy networks;input-output analysis;regression testing;testing tools
+approximate queries;customer profiles;dynamic database;histograms;incremental updates;massive data;signatures
+information search and retrieval;markov chain;numerical linear algebra;page rank;stochastic complementation
+incremental crawling;sitemap;web forum
+consecutive ones property;hidden ordering;partial order
+data archive
+blogs;information cascades;meme-tracking;networks of diffusion;news media;social networks
+equivalence classes;itemsets with ranked statistical merit
+change;hierarchical summary;olap;parsimonious explanations;statistical model
+cliques;graph generators;social networks
+information search and retrieval;motifs;online algorithms;time series
+attribute labeling;conditional random fields;data record detection;hierarchical conditional random fields;web page segmentation
+0-1 data;randomization tests;significance testing;swaps
+data collection;experimental design;probability and statistics;solicitation campaign
+clustering;graphs;scale-free networks;social networks
+information search and retrieval;metric data;mining;outlier
+clustering;constraints;np-hardness
+general;implicit feedback;sponsored search;user behavior
+association rule;database applications;graphical model;log-linear model
+customer prospecting
+anonymity;privacy
+change mining
+high-dimensional data;interactive data mining
+artificial immune systems;clustering;mining evolving data;personalization;stream data mining;web mining
+closed pattern;connectivity;graph
+design methodology;document classification;em;learning;semi-supervised multi-task learning;support vector machines
+information extraction
+dgx;frequency-count plot;lognormal distribution;maximum likelihood estimation;outlier detection;rank-frequency plot;zipf's law
+disease mapping;movement trajectories;privacy;regularization;spatial epidemiology;spatial-temporal data mining
+probabilistic latent semantic analysis;topic model;visualization
+ensemble learning;ensemble pruning
+change detection;land cover;land use;time series
+compression;graph mining;network;weighted graph
+bagging;detection rate;false alarm;feature subsets;integration;outlier detection
+database applications;ordered shrinkage;weighted association rules
+expectation maximization;kalman filters;linear dynamical systems;multi-core;openmp;optimization
+dominator tree;graph grammars;graph mining;heap profiling;memory leaks
+anomaly detection;kernel feature space;learning;principal component analysis;spacecraft;time series data;von mises fisher distribution
+data preprocessing;data selection
+collective knowledge;folksonomies;relational clustering;social information processing;social metadata;taxonomies
+chillers;clustering;data centers;frequent episodes;motifs;sustainability
+clustering;context;contextual text mining;em algorithm;information search and retrieval;mixture model;theme pattern
+relational clustering;relational data
+named entity recognition;search log mining;topic model;web mining
+interaction reengineering;run-time behavior analysis;sequential pattern mining;software engineering;software requirements recovery;usage scenarios
+entity recognition;miscellaneous;probabilistic algorithms;text modeling;topic modeling
+affinity propagation;autonomic computing;online clustering
+closed and free itemsets;concise representations
+feature selection;high recall classification;naive bayes;text categorization
+accuracy vs cost;cascade design;cost sensitive learning
+kernels;large-scale problems;learning;support vector machines
+world wide web
+anomaly detection;dynamic networks;social networks
+disease spread;dynamic social networks;model development
+anonymity;data collection;data encryption;data mining
+frequent graph pattern;graph database;graph mining;index
+distance function;forecasting;gaussian distribution;product life cycle;seasonality;time-series
+content analysis and indexing;content management;document management;near duplicate detection;scalability;similarity
+outlier detection;similarity search;temporal data
+boosting;feature selection;graph classification;l1 regularization;semi-structured data
+approximation;classification;combination technique;simplicial discretization;sparse grids
+cost-sensitive learning;game theory;integer linear programming;naive bayes;spam detection
+discretization;pattern recognition;persistence;time series
+clustering;xml
+data quantization;learning;spectral clustering;unsupervised learning
+data integration;miscellaneous
+gene expression data;order-preserving submatrix;scalability;subspace clustering;twig cluster
+noise detection;noise elimination;web mining
+latent dirichlet allocation;probabilistic algorithms;sampling
+adaptive;data mining;learning;linear model;outcomes;prediction;risk;spline;variable transformation
+calibration;crf;em;learning;localization;sensor networks;tracking
+cox regression;miscellaneous;privacy-preserving data mining;survival analysis
+0-1 matrices;nestedness;nonnumerical algorithms and problems;presence/absence data
+event streams;frequent episodes;non-overlapped occurrences;temporal data mining
+data cleaning;deduplication;spam filtering;web mining
+decision support
+classification trees;data mining in biological domains;learning;redescriptions
+boston housing data;cart;pima indians diabetes data;splitting criteria
+graph mining
+motifs;random projection;time series;uniform scaling
+bayesian models;click log analysis;web search
+applications;compression;database dissimilarity;temporal data mining
+association rule;background;bayesian network;frequent itemset;interestingness;knowledge
+information search and retrieval;quicklinks;sitemaps;web page title generation
+data stream;database applications;decay mechanism;delayed-insertion;pruning of itemsets;recent frequent itemsets
+clustering;dissimilarity;pocluster;poset
+consumer behavior;early buyers;semidefinite programming;social network
+bagging predictors;data integration;deep web;ensemble;heterogeneous databases;schema matching
+classification;implementation;support vector machines;training speed-ups
+boolean expression;closed itemsets;minimal generator
+belief propagation;large network;sensemaking;user interfaces
+boosting;database applications;scalability;squashing;support vector machines
+boosting;classification;ensemble learning;self-modifying machines;semi-supervised learning
+benchmark;classification;concordance index;data analysis;feature selection;healthcare;medical data analysis;prediction;roc;stroke;stroke prediction;svm
+classifier;classifier ensemble;concept drift;data streams
+association rules;empirical bayes methods;gamma-poisson model;knowledge discovery;market basket problem;shrinkage estimation;statistical models
+graphs;information cascades;sensor placement;submodular functions;virus propagation
+decision support;decision trees;disk-based algorithms;hoeffding bounds;incremental learning;subsampling
+data quality;link analysis;web mining
+data cleaning;data quality;disguised missing data
+association rules;cofi-tree;database applications;frequent patterns mining;inverted matrix
+anomaly detection;graph regularity
+analysis of microarray data;association rules;bioinformatics;deduction;expert-driven rule validation;post-processing of discovered rules;rule filtering;rule grouping
+deduction;number-theoretic computations;representations
+bregman divergences;co-clustering;learning;matrix approximation
+chemoinformatics;graph boosting;graph mining;partial least squares regression
+bayesian networks;expectation-maximization;heckman estimator;propensity scores;reject inference;sample selection bias
+fast fourier transforms
+itemsets;out of core;pattern mining;secondary memory
+compression;linear arrangement;reciprocity;social networks
+convergence;coordinate descent method;learning;non-negative matrix factorization
+graph evolution;graph mining;small-world phenomenon;social networks;stars
+active learning;classification;supervised learning
+coherence;learning;news
+outlier detection;spatial data mining;spatial graphs
+classification;decision trees;information visualization;interactive visualization;visual data mining
+bayesian networks;learning;multi-view learning;regression
+max-margin structured learning to rank;non-decomposable loss functions
+attribute selection;automation;encoding;transformation
+bregman divergences;exponential model;graphical model;high-dimensional clustering;learning;overlapping clustering
+anomaly detection;feature selection;intrusion detection;learning;machine learning;security and protection;user modeling;windows 2000;winnow algorithm
+classification;heterogeneous information network;ranking
+closed pattern;database applications;frequent pattern;row enumeration
+labeled data;mapping-convergence algorithm;svm;unlabeled data
+churn modeling;incentive allocation;length of service;lifetime value;number-theoretic computations;retention campaign
+clustering;complexity;constraints
+frequent pattern;probabilistic model;summarization
+artificial markets;collective probabilistic forecasts;foresight exchange;formula one pick six competition;hollywood stock exchange;knowledge discovery;world wide web games
+analytics service;general;general;text mining
+collaborative filtering;on-line information services;online communities;recommender system;similarity measure;social networks
+bayesian models;bias-variance tradeoff;classification;correlation;kernel;probability and statistics;regression
+forensics;hidden email;text mining
+graphical models;markov networks;network reconstruction;ordinary differential equations;systems biology
+belief networks;decision support;decision theory;em algorithm;ic test;real-time control;unsupervised learning;vlsi
+association search;expertise search;information extraction;information search and retrieval;name disambiguation;social network;topic modeling
+dimensionality reduction;document classification;general;semi-supervised learning;topic modeling
+active learning;apple tasting;general;online learning;streaming data
+distribution;dpln;generative process;power laws
+entity discovery;sentiment analysis
+contrast-set discovery;information search and retrieval;learning;retailing;rule discovery
+active learning;betweenness centrality;closeness centrality;clustering;community finding;empirical risk minimization;semi-supervised learning;social network analysis;statistical relational learning;within-network learning
+citation graphs;content analysis and indexing;correlation of text and links;graph mining;probabilistic measure;topic detection
+database applications;decision rule induction;expert systems;sales leads
+airline overbooking;classification;model aggregation;no-show forecasting;predictive modeling;probabilistic estimation
+classifier;classifier ensemble;concept drift;data streams
+machine learning;nomogram;support vector machines;visualization
+data linkage;data matching;deduplication;entity resolution;nearest neighbour;support vector machine
+plsa;user profiling;web usage mining
+class distribution;classification;concept drift;quantification;semi-supervised learning
+frequent itemset mining;probabilistic data;probabilistic frequent itemsets;uncertain databases
+domain transfer;ensemble;generalization bound;kernel
+gibbs sampling;learning;text modeling;unsupervised learning
+database applications;decision tree;learning;sampling;streaming data
+censoring;cluster analysis;disease progression modeling;logistic model;model development;niddk liver transplant database
+learning;redescription;storytelling
+active exploration;clickthrough data;information search and retrieval;learning to rank;web search
+dimensionality reduction;pattern recognition;probability and statistics;random projection
+distance function;information storage and retrieval;kernel trick
+ad exchange;combinatorial optimization;linear programming;performance display;real-time bidding
+biased random walk;commute-time distance;graph mining;kernel on a graph;resistance distance;shortest path
+k-means clustering support vector machines;local clustering;rare class analysis
+collaborative filtering;recommender systems
+content analysis and indexing;data mining;dimensionality reduction;indexing and retrieval;similarity search;time series
+online communities;social influence;social networks
+agglomerative;clustering;information search and retrieval;k-means;temporal evolution
+model compression;supervised learning
+claim rework identification;decision support;health insurance claims;machine learning
+balanced allocation;convex flow;maximum flow
+cold start;collaborative filtering;hybrid content and collaborative filtering;learning;naïve filterbots;performance analysis;recommender systems;robustness
+active learning;estimation;labeler selection;noisy labelers
+image annotation;image retrieval;max margin;multimodal data mining
+causal discovery;quasi-experimental design
+feature selection;markov random fields;structure learning
+clustering;iterative optimization;learning;supervised learning
+distance metric learning;hidden markov random fields;learning;semi-supervised clustering
+association rules;privacy preservation
+bypass rates;query abandonment;random walk;relevance;similarity search
+anova test;association study
+clustering;contact group clustering;group and organization interfaces;implicit social graph;tie strength
+naïve bayesian classifier;probabilistic algorithms;rocchio algorithm;text categorization
+information search and retrieval;knowledge representation formalisms and methods
+contrast patterns;disjunctive emerging patterns;zero-suppressed binary decision diagrams
+database administration;database applications;security and protection
+applications;decision support;log processing;quantification;supervised machine learning;text classification;text mining
+frequent item sets;graphs;semi-structures;structures
+active learning;adaptive resampling;classification;learning;machine learning
+privacy
+machine learning;manufacturing optimization;neural networks;pattern recognition;rule induction;self organizing maps;semiconductor yield enhancement
+miscellaneous;miscellaneous;streaming algorithm;wavelet synopses
+frequency restoration;pattern summarization;regression
+image data mining;meaningful itemset mining;pattern summarization;self-supervised clustering
+document ranking;information retrieval;patent processing;patent visualization
+design methodology;extraction;kernel feature;learning;scalability;svm
+dimensionality reduction;multi-dimensional scaling
+information search and retrieval;multinomial distribution;statistical topic models;topic model labeling
+bag-of-words;gene expression pattern;image annotation;regularization;sparse learning
+conditional random fields;constrained optimization;cross validation;extended saddle points;financial
+constrained optimization;neural networks;return on investment
+decision trees;random;regression
+clustering;clustering;database applications;gap analysis;information search and retrieval;knowledge management;text mining
+classification;informative genes;rank sum test;ranking criterion;support vector machine
+abuse and crime involving computers;l1-regularization;malicious web sites;security and protection;supervised learning
+co-clustering;consistency;high-order heterogeneous data;spectral graph
+classification;semi-supervised learning;time series
+adaptive;entity resolution;query;relations
+data stream;elastic burst
+change patterns;parallel coordinate visualization;rules
+matrix factorization;relational learning;stochastic approximation
+linear regression tree;model tree;models;predictive model;regression;scalable algorithms
+co-citation coupling;graph kernel;hits;information search and retrieval;link analysis
+cancer
+closed iterative patterns;software specification discovery
+clustering;fractionation;model-based clustering;refractionation
+graphical models;social network learning;statistical topic models
+association rules;data stream;frequent closed itemsets
+bioinformatics;biological data mining;feature extraction from protein data;machine learning;neural networks;sequence alignment
+behavior prediction;modularity;relational learning;social dimensions;social media
+frequent pattern;graph mining;itemsets;scalability
+applications;classification;machine learning;pos data
+decision support
+evaluation;machine learning;word sense discovery
+anomaly detection;belief propagation;social networks
+learning;malware;ooa mining;pe file;windows api sequence
+learning
+data generation;data mining;information discovery;testing tools
+blog;blogosphere;community factorization;iterative search;non-negative matrix factorization;regularization
+collaborative filtering;information retrieval;movie search;performance evaluation;recommender systems;search ranking
+anomaly detection;invasive software;machine learning;rule pruning;rule weighting;unauthorized access
+graph algorithms;graph decomposition;information search and retrieval;news threads
+database applications;image database;image mining;spatial relationship
+medical application;optimal risk pattern set;relative risk;rule
+applications;design methodology
+video
+bootstrap method;classification;expectation maximization;miscellaneous;supervised and unsupervised learning
+binary data;feature selection;information theory;joint entropy;learning;maximally informative k-itemsets;subgroup discovery;systems and information theory
+boosting;cost-sensitive learning;learning;multi-class classification
+clustering
+reviewer finding;topic models
+association rule;subjective interestingness;unexpected rule
+logical design
+concept drift;data streams;learning;miscellaneous;online learning;ranking
+clustering;heterogeneous information network
+decision support;machine learning;methodology;model building;model evaluation;model fusion;wheel failure prediction
+ontology;subspace clustering;tendency preserving
+clustering;clustering;em;k-means;mixture of multinomials;program phase;simulation;single data stream architectures
+uncertainty, fuzzy, and probabilistic reasoning
+direct marketing;knowledge sharing;linear models;probabilistic models;social networks;viral marketing
+latent user intent;query aspects;search sessions
+d-stream;density-based clustering;sporadic grids;stream data mining
+association rules;database applications;decision support;decision tree
+probabilistic algorithms
+adaptive em algorithm;hierarchical mixture model;image classification
+learning;spectral learning;transfer learning
+data visualization;internet;internet;model-based clustering;sequence clustering;web
+clustering;clustering;evaluation;mdl;pac bounds
+influence maximization;social networks;viral marketing
+em algorithm;mixture models
+self-modifying machines
+data integration;information extraction;learning;learning;named entity recognition;sequential learning
+cur decomposition;hyperspectral image analysis;miscellaneous;miscellaneous;recommendation system analysis;tensor cur
+partial labels;support vectors
+binary matrix factorization;integer linear program;maximum flow;minimum cut;rank-one;regularization
+high-precision classification;large-scale classification;multilabel text classification
+collaborative filtering;netflix prize;recommender systems
+distributed data mining;distributed systems;grid information system;grid systems;outliers detection;system monitoring
+distance functions;user interaction
+collective inference;learning;models;probabilistic relational models;relational learning
+anomalies;bgp monitoring;patterns;self-similarity
+scientific data;spatial object association;spatio-temporal association/episode
+analyze
+linear algebra;lsi;matrix approximation;sparse, structured, and very large systems;svd;vlsi
+anonymity;data publishing;privacy
+gradient descent method;privacy preservation;regression;secure multi-party computation
+spanning tree;subgraph mining
+aggregation;constructive induction;feature construction;learning;propositionalization;relational learning
+a/b testing;controlled experiments;e-commerce;learning
+aggregators;data mining;email mining;false positive reduction;model combination;multiple classifiers;spam
+discrimination discovery and prevention;k-nn classification
+conceptual equivalence;data stream;proactive learning
+approximation algorithms;community identification;dynamic social networks;general
+applications;clustering;email prioritization;miscellaneous;social network;text mining
+probabilistic algorithms
+audio and text mining;data pre-processing;data stream mining;design methodology;distributed data mining;feature construction;kdd system;multimedia mining;rapid prototyping;result visualization
+nonnumerical algorithms and problems
+prior knowledge;sampling;subgroup discovery
+gricean maxims;natural language processing;natural language processing;summarization;time series data
+probabilistic algorithms
+hierarchical classification;hierarchical modeling;taxonomy adjustment;text classification
+outliers;robust estimators;robust statistics;scalable algorithm
+closed episodes;depth-first search;frequent episodes
+miscellaneous;semi-supervised learning;time series prediction
+dendrogram;hierarchical clustering;information visualization
+time-series query processing
+applications;bounce rate;machine learning;online advertisement
+additive models;financial;partial residuals;predictive modeling
+author prediction;learning;multimodal heterogeneous data;recipient prediction;text mining;topic modeling;undirected graphical models
+decision support
+attributed graph;miscellaneous;pattern match;random walk
+classification;false discovery rate;feature selection;multiple regression
+alarm investigation;conceptual clustering;episode rules;intrusion detection
+application server;e-commerce;learning;web server;web site architecture
+dynamic programming;event sequences;log mining;minimum description length;summarization
+deformable templates;hidden markov models;pattern matching;segmental markov models;time series
+coarse to fine;general;hierarchical;regression
+diversity;graph mining;ranking;scalability
+graphs;information search and retrieval;markov chains;pagerank;relative importance;social networks
+computation of transforms;data mining;distance-based operations;outliers;robust estimators;robust statistics;space transformations
+decision support
+anonymity;data publishing;transaction database
+concept-drift;data streams;decision trees
+causal modeling;graphical models;time series data
+document representation;text clustering;wikipedia
+classification;hidden markov models;string
+significant relationship;warm algorithm;weighted association rule mining;weighted downward closure property;weighted support
+probabilistic algorithms
+data cleaning;database applications;distance metric learning;learning;record linkage;string edit distance;svm applications;trained similarity measures
+classification;decision tree;information gain;time series
+foundations of data mining;mining frequent itemsets;nonnumerical algorithms and problems
+association rules;bayesian networks;sampling
+document categorization;entity identification;probabilistic generative model
+l1-ball constraint;adaptive line search;logistic regression;nesterov's method;sparse learning
+interactive visual mining;mime;pattern exploration
+affiliation network;evolution;graph generator;groups;social network
+automatic image captioning;cross-modal correlation;graph-based model
+maximum entropy;recommendation;user profiling;web usage mining
+clickthrough rate;contextual matching;hierarchy;hypertext/hypermedia;imputation;internet advertising;maximum entropy;miscellaneous;on-line information services;tree-structured markov model
+classification;hilbert-schmidt independence criterion;subspace kernel;support vector machines
+data mining;numerical;rank correlation;systems
+distributed matrix factorization;mapreduce;recommendation system;stochastic gradient descent
+l_1-norm max-margin markov networks;dual sparsity;primal sparsity
+classification;decision trees;fraud detection;integration of querying and mining;knowledge discovery in databases;logic-based database languages
+association analysis;biclustering;functional modules;microarray data;range support;real-valued data
+data classification;linear equations;support vector machines
+association rule mining;database applications;diffsets;frequent itemsets
+large-scale learning;nonlinear classification;stochastic gradient descent;support vector machines
+disaster information management;dynamic query form;hierarchical summarization;user recommendation
+information search and retrieval
+classification;data extraction;miscellaneous;web mining
+clustering;co-clustering;information search and retrieval;information theory;mutual information
+bioinformatics;gene selection;information integration
+attack detection;collaborative filtering;information search and retrieval;learning;recommender systems;robustness;systems and software
+classification;database applications;tree mining;xml/semi-structured data
+linear classifiers;mathematical programming;medical decision-support;miscellaneous;rule extraction
+distance function;near neighbor;pattern recognition
+application to caching and prefetching on the www;web log mining;world wide web
+connection subgraph;cycle-free escape probability;escape probability;proximity;proximity subgraph;random walks
+large datasets;learning;text mining
+bioinformatics;clustering;microarray data
+classification;dynamic graphics;machine leaning;multivariate data;support vector machines;tours;visualization
+compression;distributed computing;graph;indexing
+dimensionality reduction;generalized eigenvalue problem;least squares;regularization;scalability
+cross-validation;dimensionality reduction;quadratic discriminant analysis;regularization
+automatically labeled data;classification;query intent
+outlier detection;steganalysis;steganography
+association mining;bayesian learning;classification;lazy learning
+probabilistic algorithms
+large-scale problems;learning;ordinal regression;roc-area;support vector machines;training algorithms
+boosting;data clustering;pairwise constraints;semi-supervised learning
+confidence intervals;marketing campaigns;model evaluation;performance measures
+active feature-value acquisition;active learning;learning;models;text categorization;web mining
+error tolerance;frequent itemsets
+association rules;decision support;frequent itemset;product assortment decisions
+birch;gaussian mixture models;large margin classification;scalability
+generalized maximum entropy model;miscellaneous;text categorization;unsupervised transfer classification
+ensemble learning;pattern ordering;rank aggregation
+catalog segmentation;clustering;microeconomic data mining
+fractals
+boosting;classifier ensembles;distributed learning
+markov models;personalization;relational probabilistic models;shrinkage;web mining
+learning;linear discriminant analysis;maximum margin criterion;optimization;principal component analysis
+influence;propagation;social networks
+adaptive document classification;context text mining;incremental mining
+rotation invariance;time warping;trajectories
+content analysis and indexing;cross-association;mdl
+classification;decision support;decision tree
+bioinformatics;supervised learning;text mining;unlabeled examples
+anomaly detection;machine learning;pattern detection
+clustering;density estimation;model-based clustering;nonparametric clustering;unimodality
+association rules;count dataset;data streams;database applications;frequency estimation;olap;sampling
+classification;clinical trial;computer aided detection;lung cancer prognosis;miscellaneous
+convexity;optimization
+frequent item sets;text documents
+bayes nets;data mining;database applications;hmms;temporal reasoning
+cross entropy;lift;metrics;performance evaluation;precision;recall;roc;supervised learning
+learning
+association rules;empirical bayes methods;pharmacovigilance;post-marketing surveillance
+collective classification;random walk;semi-supervised learning;statistical relational learning
+adversarial attacks;anonymization;general;privacy
+deduction;representations
+data streams;evaluation design
+bregman divergence;k-partite graph;relation summary network;unsupervised learning
+ern;event summarization;log;temporal dependency
+classification;consensus;ensemble;heterogeneous sources
+differential privacy;netflix;recommender systems
+community discovery;information networks;outlier detection
+canonical label;closed pattern;database applications;frequent graph;graph representation
+design methodology;high dimensional data;pattern recognition
+categorical data;scalability
+social action tracking;social influence analysis;time-varying factor graphs
+evolutionary spectral clustering;mining data streams;preserving cluster membership;temporal smoothness;treserving cluster quality
+olap;query session;search log;suffix tree
+data mining;database applications;motifs;randomized algorithms;time series
+association rules;data mining queries;query evaluation;rulebases
+applications;customer profiles;customer relationship management;dynamic database;equi-depth histograms;ewma;massive data;model validation and analysis;percentiles;sequential estimation;simulation output analysis;stochastic approximation;transaction data
+database applications;web data records;web information integration;web mining
+affinity analysis;association rules;benchmark;comparisons;frequent itemsets;market basket analysis
+diversity;information networks;ranking;reinforced random walk
+authorship attribution;computational stylistics;electronic communication;information search and retrieval;learning;text categorization;text mining
+information retrieval;latent semantic analysis;multilingual;parafac2;performance evaluation
+database applications;decision trees;feature selection;linear regression;logistic regression;segmentation-based models;targeted marketing
+center-piece subgraph;goodness score;kand
+classification;ensemble;semi-supervised learning;transfer learning
+active cost-sensitive learning;active learning;cost-sensitive learning;data acquisition;data mining;interactive and online data mining;machine learning
+information search and retrieval;keyword similarity;keyword-based advertising;on-line information services;online learning
+buffering pattern;incremental mining;reverse pattern matching;shared projection
+classification;feature selection;high-dimensional data;kernel density estimation;learning;stability
+multiple tree algorithms;track initiation
+biased propagation;heterogeneous information network;topic modeling
+classification;database applications;visual data mining
+classification;multi-relational data mining;multi-view learning;relational database
+information extraction;information systems applications;semantic web;wikipedia
+collaborative filtering;error-tolerant frequent itemset;high dimensions;query selectivity estimation
+concave minimization;data classification;data selection;support vector machines
+biosurveillance;cluster detection;space-time scan statistics
+canonical correlation analysis;efficiency;hypergraph;least squares;multi-label classification;regularization;spectral learning
+blogs;information search and retrieval;prediction;sales rank;time-series analysis
+association rule;frequent pattern;uncertain data
+fuzzy model;image collection;relationships;semantic category
+data cleaning;information extraction;learning;machine learning;text management;text segmentation
+feature selection;miscellaneous;miscellaneous;random sampling;regularized least squares classification;text classification
+deduction
+compression;mpk linearization;social networks
+probabilistic algorithms
+concept hierarchies;database applications;on-line information services;semantic annotation of web content;web mining;web personalization
+multi-class;support vector machines;text classification
+association rules;frequent patterns
+data and knowledge visualization;knowledge discovery process;model selection;representations;the user's active role
+data cleaning;information extraction
+clustering;convex programming;distance metric;kernel
+climate change attribution;extreme value modeling;graphical granger modeling;spatio-temporal causal modeling
+backpropagation through time;gene expression;heterogeneous;probabilistic algorithms;self-modifying machines;time lagged neural network;trajectory learning
+general;stream processing;tdt;twitter
+graphical models;learning;temporal analysis;topic modeling
+data envelopment analysis;learning;model combination;roc
+classification rules;discrimination
+classification;progressive confident;sequence
+angle-based;high-dimensional;outlier detection
+indexing;pattern mining;spatiotemporal data;trajectories
+reviews;sentiment classification;summarization;text mining
+dimension reduction;incremental learning;linear discriminant analysis;qr decomposition
+applications;event relationship;learning;log categorization;system management;temporal pattern
+dynamic water immersion;features rules;identification;local adaptive thresholding;majority vote;meta classifier;weighted vote
+a/b testing;controlled experiments;multivariable testing;website testing
+differential privacy;exponential mechanism;frequent itemsets;frequent patterns;general;privacy
+pet;popular events tracking;social communities;topic modeling
+database marketing;evolutionary computation;multiple objectives;pareto-optimal models
+inference;miscellaneous;topic modeling
+privacy;social network;vulnerability
+closed unique patterns;failure detection;iterative patterns;pattern-based classification;sequential database;software behaviors
+cascading classification;computer aided detection;mathematical programming;miscellaneous;sparse solutions;support vector machines
+anomaly detection;clustering;parameter-free data mining
+bagging;boosting;design methodology;robust fitting
+conditional random fields;text processing;webpage understanding
+classification;co-clustering;multimodal data;prediction models;regression
+consecutive ones property;discovering hidden orderings;nonnumerical algorithms and problems;novel data mining algorithms;spectral analysis of data
+bayesian networks;discrete search;hoeffding bounds;scalable learning algorithms;subsampling
+deduction;unauthorized access
+cultural artifacts;image processing;similarity search
+association rule;classification;database applications;outer membrane protein;subcellular localization;support vector machine
+graphical user interfaces
+bayesian networks;clustering;clustering;data mining;text mining
+bioinformatics;gibbs sampling;information retrieval;learning;multimodal data;topic models
+adversarial classification;linear classifiers;miscellaneous;spam
+coordinated streams;correlated bursty patterns;reinforcement
+collective mining;database applications;distributed mining;estimation;information consortium;statistical model
+spatio-temporal data mining;trajectory patterns
+class association rules;diagnostic data mining;general impressions;interestingness analysis;miscellaneous;olap
+cancer diagnosis;data mining;data visualization;gene expression analysis;machine learning
+legal informatics;regulations;similarity analysis;text mining
+emerging artists;model development;p2p queries
+airline price prediction;internet;learning;price mining;web mining
+block constraint;closed pattern;tough constraint
+information extraction;miscellaneous;template detection;wrapper
+ensemble classification;learning;model reconciliation;voting
+collective classification;database applications;information awareness;iterative classification;privacy;ranking classifiers;relational data mining;social network analysis;technology assessment;tia
+empirical bayes;informative priors;learning;link loads;mcmc;origin-destination traffic flows;particle filter;self-organizing bayesian dynamical system
+association rule mining;model mining;profile hidden markov model
+dimensionality reduction;principal component analysis;semi-supervised projection;supervised projection
+information search and retrieval;personalized tag prediction;social tagging;tag prediction
+probabilistic algorithms
+learning;metric learning;multi-task learning;transfer learning
+k-anonymity;local recoding;privacy preservation;utility
+sequence database;skyline query;time-series database
+cluster computing;naive bayes;parallel expectation-maximization algorithm;text classification
+graph clustering;kernel methods;multilevel methods;spectral clustering
+interesting rules;knowledge hierarchy;novelty;semantic distance;wordnet
+filtering and recommending;information search and retrieval;learning to rank;path-constrained random walks;relational retrieval
+behavioral targeting;design methodology;grid computing;large-scale
+evaluation metrics;model comparisons;regression problems
+dimensionality reduction;high-dimensional data;image data;random projection;text document data
+database applications;link prediction;location-based services;social networks
+advisor-advisee prediction;coauthor network;relationship mining;time-constrained factor graph
+bayesian network;expectation maximization;missing value;time series
+inference;privacy
+averaging;learning;models;online learning;voting;winnow
+association rule mining;inference control;inference detection;search engine;web mining
+fault signature;network topology;online diagnosis
+distributed learning;heterogeneous data sources;learning;privacy;probabilistic models
+classification;data streams
+bayesian network;distributed databases;privacy-preserving data mining
+feature selection;high-dimensional data;redundancy
+data mining;network interface cards;network intrusion detection;network security;nics
+approximation algorithms;diffusion of innovations;nonnumerical algorithms and problems;social networks;viral marketing
+concordance index;neural networks;nomogram;prostate cancer recurrence;survival analysis
+concurrent programming;gpgpu
+causal inference;miscellaneous
+frequent pattern;pattern annotation;pattern context;pattern semantic analysis
+anomaly detection;diskbased algorithms;distance-based operations;outliers
+gaussian mixture models;large datasets
+community evolution;dynamic heterogeneous network;dynamic network analysis;evolution;multi-mode networks
+astronomy;implementation;morphology;nearest neighbor;pincipal component analysis;regression
+biosurveillance;cluster detection;spatial data mining algorithms;spatial scan statistics
+learning
+probabilistic algorithms
+gene mapping;permutation tests;prefix trees
+machine learning;personal view;personalization;systems and software;user interfaces;www
+artificial intelligence;correlation analysis;failure detection;model selection;probabilistic modeling;syslog mining
+classification;data quality;decision trees;ensemble approaches;six-sigma
+code restructuring;database applications;page clustering;program locality
+heuristic algorithms;influence maximization;nonnumerical algorithms and problems;social networks
+itemset pattern summarization;markov random field;probabilistic graphical model
+learning
+associations;contingency tables;interestingness measure
+communication networks;human mobility;social networks
+citations;hyperlinks;influence;lda;learning;plsa;topic models;variational inference
+clustering;learning dissimilarity measures
+array data;bioinformatics;informative genes;phenotype
+link prediction;probabilistic graph;social networks
+data simplification;dna visualization
+co-clustering;dataflow;predictive modeling;scalability
+learning;perron-frobenius theorem;principal eigenvector;singular value decomposition;time sequence of graphs;von mises-fisher distribution
+combinatorics;sequential pattern mining
+numerical linear algebra;pca;random sampling;subset selection
+clustering;comparative text mining;information search and retrieval;mixture models
+collaborative filtering;miscellaneous;personalized recommendation;probabilistic models
+human response;media scheduling;user interaction
+data pre-processing;fraud detection;normalization;relational probability trees;statistical relational learning
+critical event prediction;database applications;large-scale clusters;learning;system event log
+anomaly detection;machine learning
+association rules
+feature redundancy;gene selection;microarray data
+knowledge discovery;time series
+correlated patterns;information-theoretic approach;mutual information;quantitative databases
+mobile recommender system;trajectory data analysis
+converse k-clustering;minimum consistent subset cover;minimum rule set;pattern summarization
+bi-party data;clustering;community generation;coral;histogram;link discovery based on correlation analysis;mlc group models;money laundering crimes;timeline analysis;uni-party data
+adversarial learning;applications;data mining;online advertisement
+fused lasso;l1 regularization;restart;subgradient
+exploits;security and protection;security and protection;supervised learning;svm;vulnerabilities
+data confidentiality;data integration;learning;regression;secure multi-party computation
+bayesian networks;learning;novel data mining algorithms;robust and scalable statistical methods
+anomaly detection;recommender systems;shilling attacks;time series
+feature generation;genre classification;logistic regression;meta learning;miscellaneous;music mining
+cost sensitive learning;roc analysis
+convex optimization;dimensionality reduction;information search and retrieval;linear programming;linear projections;metric learning;miscellaneous;relative distance constraints
+database applications;dimensionality curse;indexing
+collaborative filtering;dependency networks;direct marketing;markov random fields;social networks;viral marketing
+cost-sensitive learning;data mining;escalation prediction;learning
+multi-task learning;sparse and low-rank patterns;trace norm
+design methodology;feature selection;information search and retrieval;named entity;novelty detection;text classification
+collective inference;entity annotation/disambiguation;information search and retrieval;wikipedia
+distributed hash tables;hierarchical dirichlet processes;learning;overlay networks;peer-to-peer networks;social networks
+enterprise systems;performance forecasting;system management
+concept drift;data streams;decision trees;ensemble methods
+efficiency;histograms;miscellaneous;synopses;wavelets
+association rule mining;distributed data mining;privacy;privacy-preserving data mining
+anomaly detection;feature extraction;markov model;novelty detection;suffix tree;time series
+email spam filtering;learning;logistic regression;naive bayes
+blogs;information cascades;information networks;meme-tracking;news cycle;news media;social networks
+classification;pattern extraction
+classification;cost quantification;decision support;quantification;text mining
+collaborative filtering;order;recommender system
+biological network;dynamic network analysis;graph mining;graph rewriting rule;learning
+bias;controversy;evaluation;information systems applications;social and behavioral sciences;social network
+approximate query answering;data cubes;decision support;density estimation;olap
+boolean matrix factorizations;matrix decompositions;matrix factorizations;minimum description length principle;model order selection;model selection
+evolutionary theme patterns;temporal text mining;theme threads
+information diffusion;online forums;social networks;social selection model
+closed mining;concept drift;data streams;patterns;trees
+community identification;dynamic social networks;model development
+hierarchical agglomerative clustering;information search and retrieval;large linked networks;natural communities;stability
+distributed data mining;learning curve;multivariate linear regression;sampling
+active inference;collective classification;label acquisition
+association analysis;hyperclique;support
+change detection;database applications;density test;kernel density estimation
+distributed computing;failure detection;internet services;learning;online tracking;statistics;subspace decomposition;system management
+interval patterns;knowledge discovery;pattern recognition;time series
+de-anonymization;general;graph sampling;network privacy;random graphs;social networks
+computation of transforms
+classification;epilepsy;multi-dimensional time series;nearest neighbor;optimization
+graph generators;maximum likelihood;network evolution;social networks;transitivity;triadic closure
+object-level search;performance evaluation;subspace clustering
+design methodology;graph based clustering;two dimensional sequential model;web usage mining
+classification;facility location;gain ratio;information search and retrieval;kl-distance;tree partitioning;website hierarchy;website segmentation
+contextual advertising;general;opinion mining;sensitive content detection;sub-document classification
+categorization;clustering;miscellaneous;personalization;query logs;user history;user interests
+probabilistic algorithms
+content analysis and indexing;feature extraction;machine learning;suffix tree;text classification;text mining
+clustering;consensus partition;learning;re-sampling
+focus+context;h-mds;hyperbolic multi-dimensional scaling;infoviz;interaction styles;semantic browsing;text mining;visualizing high-dimensional data
+clustering;micro-cluster;moving object
+partial information;similarity measure;time series
+biological networks;feature selection;rank-order spaces;systems biology;temporal signatures
+data stream mining;top-k frequent items
+probabilistic algorithms
+conditional random fields;document layout analysis;general;learning;named entity extraction;optical character recognition
+anomaly detection;motif discovery;pattern discovery;time series;visualization
+active learning;miscellaneous;ranking;selective sampling;support vector machine
+graph mining;miscellaneous;proximity;random walk
+bipartite graphs;co-hits;mutual reinforcement;regularization;score propagation
+client-side personalization;online advertising
+conductance matrix;maximum entropy;network flow;pagerank
+clustering;clustering;earth science data;mining scientific data;singular value decomposition;time series
+clustering;communications applications;query recommendation;set cover
+content analysis and indexing;news filtering;news recommendation;personalization
+em algorithm;hidden markov model;information search and retrieval;latent space models;topographic mapping
+classification;clustering;data transformations;learning;mixture of multinomials;naive bayes
+data cube;holistic aggregation
+approximate ad-hoc queries;large-scale scientific data sets;statistical modeling
+citation inference;flow of ideas;information genealogy;language models;miscellaneous;temporal data;text mining
+nonnumerical algorithms and problems
+block minimization;large scale learning;svm
+graph mining;graph sampling;scaling laws
+social networks;team formation
+clustering;compressing discrete-valued vectors;non-orthogonal matrix decompositions;semi-discrete decomposition
+constrained clustering;hierarchical clustering;relative constraints
+clustering;k-means;sql
+probabilistic algorithms
+evolutionary search;feature selection
+correlation;social influence;social networks;tagging
+association rule;classification rule;deduction
+blogs;learning;personalization
+click-through data;dynamic web;event detection;evolution pattern
+complexity;data mining;maximal frequent itemset;maximal frequent pattern;nonnumerical algorithms and problems
+medical informatics;partial orders;temporal data mining
+ranking;tag recommendation;tensor factorization
+active learning;classification;machine learning;supervised learning;support vector machines;text classification;text mining
+load balancing;parallel algorithms;sampling
+computational linguistics;content systems;information retrieval;information search and retrieval;machine learning;text mining
+active learning;ensemble method;outlier detection
+clustering;feature generation;learning;relational learning
+anonymity;privacy;utility
+security and protection;unauthorized access
+clustering;clustering;directional data;em;information search and retrieval;mixtures;von mises-fisher
+density-based clustering;fuzzy distance functions;probabilistic algorithms;uncertain data
+applications;design methodology
+confidence propagation;domain knowledge;indexing;information retrieval;latent semantic indexing;link analysis;music indexing;web object
+alignment;curve clustering;em;learning;mixture model;transformation invariance
+dynamic interaction networks;graph visualization;visual analytics
+coherent subgraph;graph mining;quasi-clique
+clustering;fractal dimension;miscellaneous
+bioinformatics;boosting;information extraction;information search and retrieval;learning
+ensemble;feature selection;high-dimensional data;small sample;stability
+content analysis and indexing;information retrieval;query expansion;term clustering;text mining
+clustering;contingency tables;learning;multi-criteria optimization.;relational clustering
+association rule;information search and retrieval;learning;miscellaneous;search
+kernel methods;privacy preserving data mining
+clustering;data summarization;noise-robustness;parameter-free data mining
+classification;co-clustering;kullback-leibler divergence;out-of-domain
+collaborative filtering;cross-sell;electronic commerce;imputation;recommendation
+database applications;information search and retrieval;large-scale network;social influence analysis;social networks;topical analysis propagation
+causal models;graphical models;probability and statistics;workflow mining
+graph mining;low-rank approximation;scalability
+inferior examples;preferences;skyline;superior examples
+external memory;graphs;link prediction;random walks
+domain adaptation;feature extraction;miscellaneous;text mining
+association rule;bridging rule;clustering;entropy;learning;outlier
+cost sensitive learning;crm;customer life time value;learning;reinforcement learning;targeted marketing
+convex optimization;kernel discriminant analysis;kernel learning;model selection;quadratically constrained quadratic programming
+local models;pattern discovery
+correlation;covariance;maronna;parallel;robust
+anomaly detection;design methodology;novelty detection;online algorithm;support vector regression
+bioinformatics;grand challenge;image mining;link mining;multimedia mining;text mining;video mining;web mining;x-prize
+binary data;clustering;clustering;general model;matrix approximation
+additive models;diagnostics;draphical models;feature selection;functional anova;interpretation;learning;visualization
+classification;high dimension;k nearest neighbor;learning;metric tree
+fraud detection;learning;relational probability trees;statistical relational learning
+entropy;information extraction;information retrieval;informative content discovery
+correlation measure;correlation mining;data integration;deep web;heterogeneous databases;schema matching
+approximate computation;data streams;singular value decomposition
+expert identification;learning;learning;message routing;peer production;smart rss;social faq generation;social search
+associative reinforcement learning;contextual bandits;interactive learning;learning
+association analysis;error-tolerant itemsets;formal concept analysis;support envelope
+learning
+online learning;time-series analysis;topic model
+data transformation;generalization;predictive modeling;suppression
+drosophila;embryonic image analysis;gene expression;independent component analysis
+least squares;multi-label classification;shared subspace
+anonymization;differential privacy;miscellaneous
+em;expectation maximization;general;kullback-leibler divergence
+correlation;graph databases;pearson's correlation coefficient
+computational chemistry;frequent pattern discovery;graph mining
+closed itemsets;learning;minimal generators;redescription
+social networks;stretched exponential distribution;user generated content;user/machine systems
+experimental evaluation;time series
+clustering;feature selection;unsupervised
+learning;machine learning;pattern matching;relation extraction
+database applications;dynamic time warping;longest common subsequence;trajectories
+bounded-action devices
+ad allocation;display ads;general;nonnumerical algorithms and problems;online matching;smooth delivery
+clickthrough data;implicit feedback;information search and retrieval;machine learning;search engines;support vector machines
+bioinformatics;graph mining;patterns
+em initialization;information search and retrieval;unsupervised clustering
+background knowledge;case studies;evaluating knowledge and potential discoveries;implementation and use of kdd systems;incremental algorithms;noisy data
+ensemble;learning;semi-supervised learning
+dimension reduction;image compression;information search and retrieval;principal component analysis;singular value decomposition;tensor product;vector space
+concept drift;data streams;decision trees;hoeffding bounds;incremental learning;subsampling
+asynchronous periodic pattern;database applications;segment-based approach
+electronic commerce;em algorithm;mixture models;profiles;transaction data;types of simulation
+discrepancy;kulldorff scan statistic;probability and statistics;spatial scan statistics
+graph mining;program dependence graph;software plagiarism detection
+comparable corpora;cross-lingual text mining;document alignment;frequency correlation;information search and retrieval
+data embedding;dimensionality reduction;graph connectivity;manifold learning
+learning
+data mining;database applications;decision tree;privacy
+clustering;clustering;co-regulation;coclustering;gene expression data
+information extraction;text mining;theory revision;user guided revision
+database applications;ensemble classification;streaming data
+constraint-based mining;decision trees;formal concepts;frequent itemsets
+label space;maximum margin classification;serendipitous learning
+hyperrectangle;set cover;summarization;transactional databases
+bucket order;ordering;partial order;ranking
+general;optimization;social tagging;web classification
+random projections;rates of convergence;sampling
+lessons learned;on-board data mining;real-time data analysis;resource-constrained computing
+event log mining;fault management;telecommunications
+domain integration;latent dirichlet allocation;learning;parallel statistical inference;user profiling
+diffusion of innovations;on-line communities;social networks
+dynamic time warping;time series
+failing query;learning;nearest neighbor;online query relaxation;rule learning;web-based information sources
+mining complex sequential data;mining uncertain data;novel models and algorithms;probabilistic databases
+densification power laws;graph generators;graph mining;heavy-tailed distributions;small-world phenomena
+correlation;data structures;randomized algorithms;time series
+association rules;correlations;data mining;database applications;minimum cut
+centrality;knowledge discovery in graphs;network structure index;social network analysis
+cluster description;cluster model;clustering;correlation clustering;data mining
+data mining application in education;scoring;target selection
+on-line advertising;predictive modeling;privacy;social networks;user-generated content
+alternating least squares;column-row decompositions;local search;matrix decompositions
