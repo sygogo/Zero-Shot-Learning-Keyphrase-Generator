@@ -1,3 +1,5 @@
+The code for the paper "Thinking Like an Author: A Zero-shot Learning Approach to Keyphrase Generation with Large Language Model". Our paper has been accepted by ECML-PKDD 2024.
+
 # Thinking Like an Author: A Zero-shot Learning Approach to Keyphrase Generation with Large Language Model
 ## **1. Install Requirements**
 `pip install -r requirements.txt`
